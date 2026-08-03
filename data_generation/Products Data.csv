@@ -1,0 +1,501 @@
+ProductSysID,ProductID,ProductName,Brand,Category,SubCategory,UnitCost,SellingPrice,ShelfLifeDays
+SYSP0000001,PROD671858,Tata Tea Floral Tea 100g Box,Tata Tea,Beverages,Tea,757.55,1024.97,161.0
+SYSP0000002,PROD308496,Dell Inspiron 256GB 8GB Silver,Dell,Electronics,Laptops,100535.53,116416.2,
+SYSP0000003,PROD944962,B Natural Guava Juice 250ml Carton,B Natural,Beverages,Juices,250.45,288.51,232.0
+SYSP0000004,PROD476417,Lenovo IdeaPad 256GB 8GB Blue,Lenovo,Electronics,Laptops,60221.03,76118.07,
+SYSP0000005,PROD759176,Trust White Sugar 5kg Bag,Trust,Groceries,Sugar,67.04,82.99,567.0
+SYSP0000006,PROD183667,Continental Filter Coffee 500g Jar,Continental,Beverages,Coffee,1720.91,2378.16,113.0
+SYSP0000007,PROD802729,Redmi Redmi Turbo 5 256GB 12GB Silver,Redmi,Electronics,Mobile Phones,23012.33,28916.86,
+SYSP0000008,PROD771088,Organic India Organic Sugar 1kg Bag,Organic India,Groceries,Sugar,106.8,134.98,430.0
+SYSP0000009,PROD169403,Real Mixed Fruit Juice 250ml Bottle,Real,Beverages,Juices,249.31,316.71,106.0
+SYSP0000010,PROD881177,HP Spectre 512GB 32GB White,HP,Electronics,Laptops,64287.16,76623.17,
+SYSP0000011,PROD634277,Tropicana Guava Juice 1L Carton,Tropicana,Beverages,Juices,97.02,140.61,275.0
+SYSP0000012,PROD724834,India Gate Basmati Rice 1kg Bag,India Gate,Groceries,Rice,747.98,946.52,612.0
+SYSP0000013,PROD407757,Trust Organic Sugar 1kg Bag,Trust,Groceries,Sugar,391.24,489.85,453.0
+SYSP0000014,PROD211579,Fortune Basmati Rice 10kg Premium Pack,Fortune,Groceries,Rice,933.4,1215.57,692.0
+SYSP0000015,PROD656116,Continental Filter Coffee 100g Pouch,Continental,Beverages,Coffee,1440.57,1993.16,172.0
+SYSP0000016,PROD694916,Apple MacBook Air 256GB 16GB Blue,Apple,Electronics,Laptops,73945.23,90380.41,
+SYSP0000017,PROD273148,Redmi Redmi Note 15 512GB 4GB Blue,Redmi,Electronics,Mobile Phones,62780.07,90030.05,
+SYSP0000018,PROD491559,Organic India Brown Sugar 1kg Bag,Organic India,Groceries,Sugar,217.53,293.99,499.0
+SYSP0000019,PROD341292,Trust White Sugar 1kg Bag,Trust,Groceries,Sugar,188.9,250.57,245.0
+SYSP0000020,PROD446479,Tata Tea Masala Tea 500g Box,Tata Tea,Beverages,Tea,142.01,164.65,207.0
+SYSP0000021,PROD704201,OnePlus OnePlus Nord CE6 128GB 12GB Blue,OnePlus,Electronics,Mobile Phones,67868.21,96014.17,
+SYSP0000022,PROD531071,Fortune Brown Rice 1kg Bag,Fortune,Groceries,Rice,818.06,1027.72,279.0
+SYSP0000023,PROD214576,Madhur Organic Sugar 1kg Bag,Madhur,Groceries,Sugar,372.26,517.51,592.0
+SYSP0000024,PROD179046,Apple iPhone 16 Pro 128GB 8GB Blue,Apple,Electronics,Mobile Phones,32283.61,39545.55,
+SYSP0000025,PROD324130,Madhur White Sugar 1kg Bag,Madhur,Groceries,Sugar,108.17,140.16,422.0
+SYSP0000026,PROD399105,India Gate Brown Rice 1kg Premium Pack,India Gate,Groceries,Rice,1117.7,1548.62,451.0
+SYSP0000027,PROD707314,Organic India Organic Sugar 5kg Bag,Organic India,Groceries,Sugar,169.45,244.11,374.0
+SYSP0000028,PROD265080,Real Mixed Fruit Juice 250ml Bottle,Real,Beverages,Juices,170.74,240.03,334.0
+SYSP0000029,PROD697347,Apple iPhone 15 512GB 4GB Blue,Apple,Electronics,Mobile Phones,42302.04,60596.78,
+SYSP0000030,PROD373432,Motorola Motorola Razr 60 256GB 12GB Red,Motorola,Electronics,Mobile Phones,55218.15,68741.68,
+SYSP0000031,PROD176066,HP Envy 512GB 8GB Blue,HP,Electronics,Laptops,95722.46,136759.21,
+SYSP0000032,PROD465962,Asus Zephyrus 256GB 8GB Silver,Asus,Electronics,Laptops,100588.47,119673.82,
+SYSP0000033,PROD946305,OnePlus OnePlus 15 128GB 8GB Red,OnePlus,Electronics,Mobile Phones,66283.19,88388.85,
+SYSP0000034,PROD878480,Real Mixed Fruit Juice 1L Bottle,Real,Beverages,Juices,108.76,154.1,158.0
+SYSP0000035,PROD376807,Lipton Floral Tea 500g Box,Lipton,Beverages,Tea,267.31,358.27,265.0
+SYSP0000036,PROD237174,Bru Instant Coffee 100g Pouch,Bru,Beverages,Coffee,301.4,376.77,231.0
+SYSP0000037,PROD824586,Nescafe Roasted Coffee 500g Pouch,Nescafe,Beverages,Coffee,457.31,655.56,94.0
+SYSP0000038,PROD934794,OnePlus OnePlus Nord CE4 256GB 4GB Black,OnePlus,Electronics,Mobile Phones,34660.67,49207.56,
+SYSP0000039,PROD526117,HP Victus 2TB 8GB Blue,HP,Electronics,Laptops,128011.62,181167.22,
+SYSP0000040,PROD448321,Real Apple Juice 250ml Bottle,Real,Beverages,Juices,46.44,63.67,301.0
+SYSP0000041,PROD593554,Organic India White Sugar 5kg Bag,Organic India,Groceries,Sugar,209.79,243.7,290.0
+SYSP0000042,PROD444207,Redmi Redmi Turbo 5 256GB 4GB Blue,Redmi,Electronics,Mobile Phones,11893.15,14366.2,
+SYSP0000043,PROD373903,Fortune Brown Rice 10kg Premium Pack,Fortune,Groceries,Rice,1131.95,1340.91,519.0
+SYSP0000044,PROD735656,Dell Inspiron 2TB 16GB Blue,Dell,Electronics,Laptops,122854.51,152843.69,
+SYSP0000045,PROD664607,Lipton Green Tea 250g Box,Lipton,Beverages,Tea,81.56,116.44,313.0
+SYSP0000046,PROD753425,B Natural Apple Juice 500ml Carton,B Natural,Beverages,Juices,286.71,408.91,125.0
+SYSP0000047,PROD681343,Madhur Organic Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,183.31,249.15,598.0
+SYSP0000048,PROD674553,Redmi Redmi Turbo 5 512GB 12GB Blue,Redmi,Electronics,Mobile Phones,59241.19,73475.96,
+SYSP0000049,PROD324082,Lenovo ThinkPad 512GB 32GB Blue,Lenovo,Electronics,Laptops,96498.82,123774.01,
+SYSP0000050,PROD451470,Continental Filter Coffee 500g Jar,Continental,Beverages,Coffee,1385.54,1856.46,235.0
+SYSP0000051,PROD740967,OnePlus OnePlus Nord CE4 128GB 4GB Black,OnePlus,Electronics,Mobile Phones,13697.1,19794.79,
+SYSP0000052,PROD787926,Apple MacBook Air 2TB 32GB White,Apple,Electronics,Laptops,99437.72,121631.75,
+SYSP0000053,PROD989545,Tata Tea White Tea 100g Box,Tata Tea,Beverages,Tea,507.39,668.35,355.0
+SYSP0000054,PROD742412,HP Spectre 2TB 32GB Blue,HP,Electronics,Laptops,145003.96,205532.64,
+SYSP0000055,PROD768636,Tropicana Guava Juice 250ml Carton,Tropicana,Beverages,Juices,107.39,131.46,320.0
+SYSP0000056,PROD384913,Trust Organic Sugar 1kg Premium Pack,Trust,Groceries,Sugar,66.42,82.08,630.0
+SYSP0000057,PROD324345,Patanjali Wheat Flour 1kg Bag,Patanjali,Groceries,Flour,331.11,395.96,416.0
+SYSP0000058,PROD508396,Apple MacBook Pro 2TB 16GB White,Apple,Electronics,Laptops,56226.57,78709.74,
+SYSP0000059,PROD976325,Real Guava Juice 500ml Bottle,Real,Beverages,Juices,117.64,149.05,270.0
+SYSP0000060,PROD507746,Organic India Organic Sugar 1kg Premium Pack,Organic India,Groceries,Sugar,158.28,205.08,404.0
+SYSP0000061,PROD513160,Organic India Brown Sugar 1kg Premium Pack,Organic India,Groceries,Sugar,490.94,643.25,310.0
+SYSP0000062,PROD372793,B Natural Orange Juice 250ml Carton,B Natural,Beverages,Juices,265.38,319.66,159.0
+SYSP0000063,PROD542042,Aashirvaad Multigrain Flour 5kg Premium Pack,Aashirvaad,Groceries,Flour,251.48,360.96,568.0
+SYSP0000064,PROD783414,Fortune Basmati Rice 10kg Bag,Fortune,Groceries,Rice,331.13,387.62,538.0
+SYSP0000065,PROD219946,Apple iPhone 15 Pro 128GB 12GB Blue,Apple,Electronics,Mobile Phones,29083.6,37578.0,
+SYSP0000066,PROD426147,Lipton Floral Tea 250g Box,Lipton,Beverages,Tea,795.57,953.99,148.0
+SYSP0000067,PROD757711,OnePlus OnePlus Nord CE6 256GB 12GB Blue,OnePlus,Electronics,Mobile Phones,16079.72,21823.14,
+SYSP0000068,PROD172306,OnePlus OnePlus 12 512GB 4GB Silver,OnePlus,Electronics,Mobile Phones,52619.62,70955.26,
+SYSP0000069,PROD968962,Tropicana Orange Juice 500ml Carton,Tropicana,Beverages,Juices,152.72,192.22,144.0
+SYSP0000070,PROD721254,Madhur Brown Sugar 1kg Premium Pack,Madhur,Groceries,Sugar,248.49,347.32,675.0
+SYSP0000071,PROD800646,Aashirvaad Wheat Flour 5kg Premium Pack,Aashirvaad,Groceries,Flour,610.36,806.26,429.0
+SYSP0000072,PROD456871,Aashirvaad Multigrain Flour 5kg Bag,Aashirvaad,Groceries,Flour,201.21,279.55,679.0
+SYSP0000073,PROD682144,Organic India Brown Sugar 1kg Bag,Organic India,Groceries,Sugar,143.44,182.45,267.0
+SYSP0000074,PROD421080,Apple MacBook Pro 256GB 8GB Blue,Apple,Electronics,Laptops,72159.64,97959.32,
+SYSP0000075,PROD468900,Tropicana Guava Juice 1L Carton,Tropicana,Beverages,Juices,299.12,393.38,307.0
+SYSP0000076,PROD878967,Bru Vanilla Coffee 200g Jar,Bru,Beverages,Coffee,1858.95,2313.77,151.0
+SYSP0000077,PROD650121,Real Apple Juice 250ml Carton,Real,Beverages,Juices,228.39,329.56,231.0
+SYSP0000078,PROD660081,Nescafe Filter Coffee 200g Jar,Nescafe,Beverages,Coffee,612.72,707.23,274.0
+SYSP0000079,PROD207570,Dell Inspiron 2TB 16GB Silver,Dell,Electronics,Laptops,113786.97,156552.4,
+SYSP0000080,PROD600935,Apple MacBook Pro 512GB 16GB Silver,Apple,Electronics,Laptops,146549.76,179632.42,
+SYSP0000081,PROD418594,Redmi Redmi Turbo 5 128GB 12GB Black,Redmi,Electronics,Mobile Phones,22138.16,30846.04,
+SYSP0000082,PROD572398,Samsung Galaxy Z Flip 8 512GB 12GB Red,Samsung,Electronics,Mobile Phones,28054.97,36661.44,
+SYSP0000083,PROD321275,Patanjali Multigrain Flour 5kg Bag,Patanjali,Groceries,Flour,760.17,921.58,281.0
+SYSP0000084,PROD822858,Madhur White Sugar 1kg Bag,Madhur,Groceries,Sugar,103.57,131.8,256.0
+SYSP0000085,PROD820775,Bru Instant Coffee 100g Pouch,Bru,Beverages,Coffee,1816.87,2336.88,234.0
+SYSP0000086,PROD378535,Asus Zephyrus 256GB 16GB Black,Asus,Electronics,Laptops,104456.24,140419.52,
+SYSP0000087,PROD591465,Samsung Galaxy A55 256GB 12GB Red,Samsung,Electronics,Mobile Phones,83695.4,107276.25,
+SYSP0000088,PROD553014,Continental Roasted Coffee 200g Pouch,Continental,Beverages,Coffee,385.02,447.38,314.0
+SYSP0000089,PROD703139,Continental Vanilla Coffee 100g Jar,Continental,Beverages,Coffee,2412.4,3379.26,207.0
+SYSP0000090,PROD391668,Brooke Bond Floral Tea 500g Box,Brooke Bond,Beverages,Tea,512.86,690.03,179.0
+SYSP0000091,PROD999398,Apple MacBook Air 512GB 16GB White,Apple,Electronics,Laptops,83330.84,112583.3,
+SYSP0000092,PROD576919,Apple MacBook Pro 512GB 32GB White,Apple,Electronics,Laptops,131356.6,172737.74,
+SYSP0000093,PROD533321,Lenovo IdeaPad 256GB 16GB Black,Lenovo,Electronics,Laptops,115766.04,151975.12,
+SYSP0000094,PROD675898,Motorola Motorola Edge 70 512GB 8GB White,Motorola,Electronics,Mobile Phones,70799.24,85742.66,
+SYSP0000095,PROD114338,Apple MacBook Pro 256GB 8GB Silver,Apple,Electronics,Laptops,120978.28,150403.23,
+SYSP0000096,PROD851413,Nescafe Filter Coffee 100g Pouch,Nescafe,Beverages,Coffee,1689.73,2021.24,150.0
+SYSP0000097,PROD502219,Organic India Brown Sugar 5kg Premium Pack,Organic India,Groceries,Sugar,144.55,190.14,663.0
+SYSP0000098,PROD861319,Samsung Galaxy S25 256GB 8GB Red,Samsung,Electronics,Mobile Phones,31373.81,36104.03,
+SYSP0000099,PROD678727,Organic India Organic Sugar 5kg Bag,Organic India,Groceries,Sugar,283.13,354.91,637.0
+SYSP0000100,PROD145767,Bru Vanilla Coffee 100g Jar,Bru,Beverages,Coffee,737.19,1019.29,286.0
+SYSP0000101,PROD626690,Trust Organic Sugar 5kg Premium Pack,Trust,Groceries,Sugar,262.8,305.14,335.0
+SYSP0000102,PROD786587,Nescafe Roasted Coffee 100g Pouch,Nescafe,Beverages,Coffee,1861.62,2369.83,97.0
+SYSP0000103,PROD993744,Redmi Redmi Turbo 5 256GB 12GB White,Redmi,Electronics,Mobile Phones,61986.93,87124.46,
+SYSP0000104,PROD817644,Tropicana Mixed Fruit Juice 1L Carton,Tropicana,Beverages,Juices,200.54,244.75,108.0
+SYSP0000105,PROD130353,Daawat Basmati Rice 5kg Bag,Daawat,Groceries,Rice,576.92,783.57,282.0
+SYSP0000106,PROD693418,Dell XPS 512GB 16GB White,Dell,Electronics,Laptops,64556.98,84527.68,
+SYSP0000107,PROD343467,Tata Tea Green Tea 100g Pouch,Tata Tea,Beverages,Tea,537.85,712.62,213.0
+SYSP0000108,PROD265649,Trust Brown Sugar 5kg Bag,Trust,Groceries,Sugar,453.57,613.81,656.0
+SYSP0000109,PROD416797,Lenovo Legion 512GB 32GB White,Lenovo,Electronics,Laptops,119031.35,153199.39,
+SYSP0000110,PROD409571,Apple MacBook Air 256GB 16GB Blue,Apple,Electronics,Laptops,107481.19,155612.09,
+SYSP0000111,PROD973294,Lenovo ThinkPad 2TB 32GB Black,Lenovo,Electronics,Laptops,141061.7,193755.53,
+SYSP0000112,PROD791201,Daawat Brown Rice 1kg Bag,Daawat,Groceries,Rice,839.1,1146.44,436.0
+SYSP0000113,PROD482584,Brooke Bond Masala Tea 500g Box,Brooke Bond,Beverages,Tea,805.52,934.41,248.0
+SYSP0000114,PROD483629,Tata Tea Floral Tea 250g Pouch,Tata Tea,Beverages,Tea,264.73,366.9,179.0
+SYSP0000115,PROD220764,Tropicana Apple Juice 500ml Carton,Tropicana,Beverages,Juices,234.11,293.02,241.0
+SYSP0000116,PROD377304,India Gate Basmati Rice 10kg Premium Pack,India Gate,Groceries,Rice,181.14,229.75,554.0
+SYSP0000117,PROD213609,Lipton Floral Tea 500g Pouch,Lipton,Beverages,Tea,836.62,1198.11,285.0
+SYSP0000118,PROD586819,Lipton Masala Tea 500g Pouch,Lipton,Beverages,Tea,675.84,906.05,203.0
+SYSP0000119,PROD616554,Continental Roasted Coffee 100g Jar,Continental,Beverages,Coffee,2376.4,2949.85,113.0
+SYSP0000120,PROD666432,Apple iPhone 15 Pro 256GB 8GB Silver,Apple,Electronics,Mobile Phones,63638.9,87372.52,
+SYSP0000121,PROD393328,Organic India Organic Sugar 1kg Premium Pack,Organic India,Groceries,Sugar,421.84,563.03,281.0
+SYSP0000122,PROD670913,HP Spectre 512GB 8GB Blue,HP,Electronics,Laptops,59935.46,81254.75,
+SYSP0000123,PROD196126,Nescafe Roasted Coffee 200g Jar,Nescafe,Beverages,Coffee,2382.72,3329.27,152.0
+SYSP0000124,PROD315173,Brooke Bond Masala Tea 100g Pouch,Brooke Bond,Beverages,Tea,989.72,1371.84,214.0
+SYSP0000125,PROD390743,Motorola Motorola Razr 60 128GB 8GB Blue,Motorola,Electronics,Mobile Phones,73091.5,97123.58,
+SYSP0000126,PROD926730,Motorola Motorola Edge 70 128GB 4GB Black,Motorola,Electronics,Mobile Phones,20544.26,25833.85,
+SYSP0000127,PROD881886,Dell Inspiron 512GB 8GB Silver,Dell,Electronics,Laptops,124171.81,162395.08,
+SYSP0000128,PROD744986,Apple MacBook Pro 2TB 32GB Black,Apple,Electronics,Laptops,95200.54,115808.12,
+SYSP0000129,PROD847006,Apple MacBook Air 256GB 16GB White,Apple,Electronics,Laptops,92627.36,109521.53,
+SYSP0000130,PROD713799,India Gate Brown Rice 10kg Bag,India Gate,Groceries,Rice,221.33,295.98,247.0
+SYSP0000131,PROD931621,Tropicana Guava Juice 1L Carton,Tropicana,Beverages,Juices,171.44,219.28,322.0
+SYSP0000132,PROD518098,Brooke Bond Green Tea 250g Pouch,Brooke Bond,Beverages,Tea,460.71,644.18,206.0
+SYSP0000133,PROD597305,Madhur Brown Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,205.92,246.24,441.0
+SYSP0000134,PROD714953,Samsung Galaxy S24 256GB 4GB Silver,Samsung,Electronics,Mobile Phones,74941.54,98691.35,
+SYSP0000135,PROD401601,Tropicana Orange Juice 500ml Carton,Tropicana,Beverages,Juices,265.7,363.03,306.0
+SYSP0000136,PROD213475,Bru Instant Coffee 500g Jar,Bru,Beverages,Coffee,1710.49,2082.13,169.0
+SYSP0000137,PROD958182,Trust White Sugar 5kg Bag,Trust,Groceries,Sugar,427.22,616.21,619.0
+SYSP0000138,PROD423993,B Natural Orange Juice 1L Carton,B Natural,Beverages,Juices,86.91,118.27,104.0
+SYSP0000139,PROD132146,Aashirvaad Wheat Flour 1kg Premium Pack,Aashirvaad,Groceries,Flour,147.82,198.07,251.0
+SYSP0000140,PROD914571,Redmi Redmi Turbo 5 256GB 8GB Blue,Redmi,Electronics,Mobile Phones,39604.25,54118.37,
+SYSP0000141,PROD794093,Real Orange Juice 250ml Bottle,Real,Beverages,Juices,215.23,265.08,115.0
+SYSP0000142,PROD550797,Patanjali Multigrain Flour 5kg Premium Pack,Patanjali,Groceries,Flour,613.76,726.78,400.0
+SYSP0000143,PROD728437,Asus Scar 2TB 32GB Blue,Asus,Electronics,Laptops,54541.74,69190.51,
+SYSP0000144,PROD621546,Apple iPhone 16 128GB 4GB Silver,Apple,Electronics,Mobile Phones,33155.77,39322.59,
+SYSP0000145,PROD471371,Nescafe Filter Coffee 200g Jar,Nescafe,Beverages,Coffee,1485.06,2005.45,346.0
+SYSP0000146,PROD701253,Dell XPS 256GB 16GB Black,Dell,Electronics,Laptops,136211.0,180170.07,
+SYSP0000147,PROD940247,Organic India Brown Sugar 5kg Bag,Organic India,Groceries,Sugar,39.8,49.65,594.0
+SYSP0000148,PROD649414,Continental Vanilla Coffee 100g Pouch,Continental,Beverages,Coffee,759.63,1007.77,144.0
+SYSP0000149,PROD763984,Lenovo Legion 512GB 8GB Blue,Lenovo,Electronics,Laptops,127911.79,150029.51,
+SYSP0000150,PROD306854,OnePlus OnePlus 15 512GB 12GB Blue,OnePlus,Electronics,Mobile Phones,28901.51,34506.47,
+SYSP0000151,PROD570711,Samsung Galaxy A55 512GB 8GB White,Samsung,Electronics,Mobile Phones,70355.67,96947.52,
+SYSP0000152,PROD762055,B Natural Mixed Fruit Juice 1L Carton,B Natural,Beverages,Juices,154.34,199.2,167.0
+SYSP0000153,PROD486649,Patanjali Wheat Flour 5kg Bag,Patanjali,Groceries,Flour,390.92,453.97,497.0
+SYSP0000154,PROD874814,Daawat Basmati Rice 10kg Premium Pack,Daawat,Groceries,Rice,729.97,1048.43,653.0
+SYSP0000155,PROD572407,Asus Zephyrus 256GB 16GB White,Asus,Electronics,Laptops,100136.73,143928.2,
+SYSP0000156,PROD739427,Dell Inspiron 256GB 8GB White,Dell,Electronics,Laptops,149098.6,194904.76,
+SYSP0000157,PROD761532,Lenovo IdeaPad 512GB 16GB Blue,Lenovo,Electronics,Laptops,117889.77,137425.24,
+SYSP0000158,PROD731977,Nescafe Vanilla Coffee 100g Pouch,Nescafe,Beverages,Coffee,779.59,1095.69,235.0
+SYSP0000159,PROD188834,Dell Inspiron 512GB 16GB White,Dell,Electronics,Laptops,62895.17,85704.12,
+SYSP0000160,PROD633188,Trust Organic Sugar 5kg Bag,Trust,Groceries,Sugar,73.92,99.88,719.0
+SYSP0000161,PROD337547,Fortune Brown Rice 1kg Bag,Fortune,Groceries,Rice,1141.39,1479.11,529.0
+SYSP0000162,PROD139581,Samsung Galaxy S25 128GB 12GB Red,Samsung,Electronics,Mobile Phones,76809.59,108693.61,
+SYSP0000163,PROD908554,Continental Filter Coffee 500g Pouch,Continental,Beverages,Coffee,573.17,802.1,168.0
+SYSP0000164,PROD565776,Brooke Bond White Tea 100g Pouch,Brooke Bond,Beverages,Tea,702.25,857.63,276.0
+SYSP0000165,PROD975679,Continental Roasted Coffee 100g Jar,Continental,Beverages,Coffee,2420.87,3353.66,248.0
+SYSP0000166,PROD269930,Asus Scar 512GB 16GB White,Asus,Electronics,Laptops,100290.67,127930.6,
+SYSP0000167,PROD986982,OnePlus OnePlus 12 512GB 8GB Silver,OnePlus,Electronics,Mobile Phones,54363.26,64190.88,
+SYSP0000168,PROD558723,Lipton Masala Tea 100g Pouch,Lipton,Beverages,Tea,912.88,1090.17,320.0
+SYSP0000169,PROD504924,Redmi Redmi Turbo 5 128GB 8GB Black,Redmi,Electronics,Mobile Phones,41716.32,52653.86,
+SYSP0000170,PROD400814,HP Pavilion 512GB 8GB Blue,HP,Electronics,Laptops,129138.06,153839.57,
+SYSP0000171,PROD326130,Madhur Organic Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,455.75,526.71,185.0
+SYSP0000172,PROD932463,Dell XPS 256GB 16GB Black,Dell,Electronics,Laptops,54774.94,69889.96,
+SYSP0000173,PROD405420,Nescafe Instant Coffee 200g Jar,Nescafe,Beverages,Coffee,1522.61,2079.22,353.0
+SYSP0000174,PROD478120,Daawat Brown Rice 1kg Premium Pack,Daawat,Groceries,Rice,824.1,968.88,371.0
+SYSP0000175,PROD117031,Redmi Redmi Turbo 5 128GB 12GB White,Redmi,Electronics,Mobile Phones,88483.15,108488.75,
+SYSP0000176,PROD454992,Fortune Basmati Rice 10kg Bag,Fortune,Groceries,Rice,229.42,288.08,520.0
+SYSP0000177,PROD913894,Brooke Bond White Tea 500g Pouch,Brooke Bond,Beverages,Tea,826.58,966.21,183.0
+SYSP0000178,PROD517568,Fortune Basmati Rice 1kg Bag,Fortune,Groceries,Rice,433.47,538.81,222.0
+SYSP0000179,PROD787584,Bru Instant Coffee 500g Jar,Bru,Beverages,Coffee,1021.04,1413.38,236.0
+SYSP0000180,PROD295892,Aashirvaad Multigrain Flour 5kg Premium Pack,Aashirvaad,Groceries,Flour,719.92,911.41,630.0
+SYSP0000181,PROD962287,Trust Brown Sugar 5kg Bag,Trust,Groceries,Sugar,67.1,89.29,614.0
+SYSP0000182,PROD546815,Lenovo ThinkPad 256GB 16GB Blue,Lenovo,Electronics,Laptops,80649.59,107327.38,
+SYSP0000183,PROD770532,Lenovo IdeaPad 256GB 32GB Blue,Lenovo,Electronics,Laptops,111485.15,142754.74,
+SYSP0000184,PROD737086,Redmi Redmi Turbo 5 512GB 12GB Blue,Redmi,Electronics,Mobile Phones,86223.15,102849.89,
+SYSP0000185,PROD133958,Nescafe Filter Coffee 100g Jar,Nescafe,Beverages,Coffee,1032.95,1482.12,277.0
+SYSP0000186,PROD655178,Brooke Bond White Tea 250g Pouch,Brooke Bond,Beverages,Tea,782.04,1033.99,317.0
+SYSP0000187,PROD642895,Fortune Gluten-Free Flour 5kg Bag,Fortune,Groceries,Flour,59.69,71.98,296.0
+SYSP0000188,PROD615060,Madhur Brown Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,498.29,615.72,399.0
+SYSP0000189,PROD986593,Apple iPhone 15 256GB 4GB White,Apple,Electronics,Mobile Phones,89780.99,125078.74,
+SYSP0000190,PROD834233,Trust Organic Sugar 1kg Premium Pack,Trust,Groceries,Sugar,430.14,586.51,487.0
+SYSP0000191,PROD478427,Lipton Green Tea 100g Box,Lipton,Beverages,Tea,297.8,386.61,161.0
+SYSP0000192,PROD851759,Tropicana Guava Juice 1L Bottle,Tropicana,Beverages,Juices,57.09,72.47,134.0
+SYSP0000193,PROD571832,Continental Roasted Coffee 200g Jar,Continental,Beverages,Coffee,2436.47,3271.45,154.0
+SYSP0000194,PROD158104,Organic India Brown Sugar 1kg Bag,Organic India,Groceries,Sugar,233.33,332.08,312.0
+SYSP0000195,PROD397846,OnePlus OnePlus Nord CE4 128GB 8GB Blue,OnePlus,Electronics,Mobile Phones,37681.85,53970.63,
+SYSP0000196,PROD772124,HP Envy 256GB 32GB Blue,HP,Electronics,Laptops,111442.83,131282.83,
+SYSP0000197,PROD908475,Apple iPhone 16 512GB 4GB Black,Apple,Electronics,Mobile Phones,16497.83,23667.19,
+SYSP0000198,PROD403742,Continental Filter Coffee 500g Pouch,Continental,Beverages,Coffee,1345.49,1800.47,105.0
+SYSP0000199,PROD265759,Bru Filter Coffee 500g Pouch,Bru,Beverages,Coffee,1243.15,1686.44,242.0
+SYSP0000200,PROD869864,Fortune Multigrain Flour 1kg Premium Pack,Fortune,Groceries,Flour,277.56,379.01,327.0
+SYSP0000201,PROD571435,Aashirvaad Multigrain Flour 10kg Bag,Aashirvaad,Groceries,Flour,223.72,265.5,506.0
+SYSP0000202,PROD267457,Samsung Galaxy S24 256GB 8GB Red,Samsung,Electronics,Mobile Phones,43450.78,62517.23,
+SYSP0000203,PROD423528,Organic India Brown Sugar 1kg Bag,Organic India,Groceries,Sugar,498.11,642.58,690.0
+SYSP0000204,PROD152995,India Gate Brown Rice 10kg Premium Pack,India Gate,Groceries,Rice,320.96,403.08,426.0
+SYSP0000205,PROD551860,Patanjali Gluten-Free Flour 10kg Premium Pack,Patanjali,Groceries,Flour,447.88,628.89,472.0
+SYSP0000206,PROD480133,Lenovo IdeaPad 512GB 8GB White,Lenovo,Electronics,Laptops,55115.77,72672.63,
+SYSP0000207,PROD740725,Nescafe Roasted Coffee 500g Pouch,Nescafe,Beverages,Coffee,2098.22,2805.26,233.0
+SYSP0000208,PROD308727,Samsung Galaxy Z Flip 8 256GB 8GB Red,Samsung,Electronics,Mobile Phones,85115.89,117161.13,
+SYSP0000209,PROD644559,Tropicana Orange Juice 250ml Bottle,Tropicana,Beverages,Juices,225.53,313.76,160.0
+SYSP0000210,PROD875232,Daawat Sona Masoori 1kg Premium Pack,Daawat,Groceries,Rice,262.0,379.16,506.0
+SYSP0000211,PROD806537,Trust Organic Sugar 5kg Premium Pack,Trust,Groceries,Sugar,413.4,521.09,666.0
+SYSP0000212,PROD787436,Asus Scar 2TB 32GB Black,Asus,Electronics,Laptops,109690.96,134882.49,
+SYSP0000213,PROD912233,Real Orange Juice 1L Carton,Real,Beverages,Juices,176.3,240.89,177.0
+SYSP0000214,PROD258787,Daawat Basmati Rice 1kg Bag,Daawat,Groceries,Rice,101.21,125.92,375.0
+SYSP0000215,PROD794395,Madhur Brown Sugar 5kg Bag,Madhur,Groceries,Sugar,273.78,360.91,321.0
+SYSP0000216,PROD855944,Trust Brown Sugar 1kg Premium Pack,Trust,Groceries,Sugar,286.75,387.9,530.0
+SYSP0000217,PROD412999,B Natural Mixed Fruit Juice 1L Carton,B Natural,Beverages,Juices,288.91,356.43,188.0
+SYSP0000218,PROD934042,Lenovo Legion 256GB 32GB White,Lenovo,Electronics,Laptops,81704.07,102509.27,
+SYSP0000219,PROD943700,Bru Instant Coffee 500g Pouch,Bru,Beverages,Coffee,2082.27,2990.94,292.0
+SYSP0000220,PROD883641,Dell XPS 2TB 8GB Blue,Dell,Electronics,Laptops,142400.96,191784.42,
+SYSP0000221,PROD350905,India Gate Sona Masoori 5kg Premium Pack,India Gate,Groceries,Rice,202.33,277.65,320.0
+SYSP0000222,PROD595351,Motorola Motorola Razr 60 512GB 4GB Black,Motorola,Electronics,Mobile Phones,18015.84,22503.37,
+SYSP0000223,PROD401198,Samsung Galaxy A55 256GB 12GB White,Samsung,Electronics,Mobile Phones,48195.88,58309.15,
+SYSP0000224,PROD978292,Patanjali Wheat Flour 1kg Bag,Patanjali,Groceries,Flour,734.05,882.71,218.0
+SYSP0000225,PROD695551,Redmi Redmi Turbo 5 128GB 12GB Silver,Redmi,Electronics,Mobile Phones,80139.45,92383.17,
+SYSP0000226,PROD302177,Lipton Floral Tea 250g Pouch,Lipton,Beverages,Tea,862.97,1113.58,158.0
+SYSP0000227,PROD409355,HP Spectre 2TB 16GB Silver,HP,Electronics,Laptops,51408.42,64318.8,
+SYSP0000228,PROD801765,Real Apple Juice 1L Carton,Real,Beverages,Juices,173.97,204.59,308.0
+SYSP0000229,PROD890371,Apple iPhone 16 Pro 256GB 4GB Black,Apple,Electronics,Mobile Phones,30862.82,37672.9,
+SYSP0000230,PROD165142,Fortune Gluten-Free Flour 10kg Bag,Fortune,Groceries,Flour,536.8,728.88,447.0
+SYSP0000231,PROD907236,Lipton Floral Tea 100g Pouch,Lipton,Beverages,Tea,929.26,1316.15,347.0
+SYSP0000232,PROD260626,Madhur Organic Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,132.99,158.27,406.0
+SYSP0000233,PROD724756,Organic India Brown Sugar 5kg Premium Pack,Organic India,Groceries,Sugar,388.07,525.49,403.0
+SYSP0000234,PROD630041,Asus Zephyrus 512GB 8GB Black,Asus,Electronics,Laptops,56175.8,73831.56,
+SYSP0000235,PROD612573,Apple iPhone 16 512GB 8GB Black,Apple,Electronics,Mobile Phones,64423.62,87943.1,
+SYSP0000236,PROD584838,Dell XPS 256GB 32GB White,Dell,Electronics,Laptops,95679.85,111689.1,
+SYSP0000237,PROD147489,Continental Instant Coffee 200g Pouch,Continental,Beverages,Coffee,1915.35,2534.95,91.0
+SYSP0000238,PROD401036,Patanjali Wheat Flour 10kg Bag,Patanjali,Groceries,Flour,789.46,1019.68,250.0
+SYSP0000239,PROD495833,India Gate Sona Masoori 10kg Premium Pack,India Gate,Groceries,Rice,1192.0,1507.57,563.0
+SYSP0000240,PROD512151,Daawat Sona Masoori 10kg Bag,Daawat,Groceries,Rice,212.87,308.2,536.0
+SYSP0000241,PROD544730,Brooke Bond Green Tea 100g Box,Brooke Bond,Beverages,Tea,505.96,691.0,242.0
+SYSP0000242,PROD860242,Nescafe Filter Coffee 200g Pouch,Nescafe,Beverages,Coffee,833.99,1193.63,169.0
+SYSP0000243,PROD726822,Redmi Redmi Note 15 128GB 4GB Black,Redmi,Electronics,Mobile Phones,18071.74,20964.54,
+SYSP0000244,PROD891030,Real Apple Juice 1L Bottle,Real,Beverages,Juices,154.13,202.21,295.0
+SYSP0000245,PROD805200,Motorola Motorola Edge 70 128GB 12GB Red,Motorola,Electronics,Mobile Phones,35512.3,47209.17,
+SYSP0000246,PROD720407,Fortune Basmati Rice 10kg Bag,Fortune,Groceries,Rice,416.56,486.66,603.0
+SYSP0000247,PROD803953,Brooke Bond White Tea 500g Pouch,Brooke Bond,Beverages,Tea,974.51,1395.96,114.0
+SYSP0000248,PROD664058,Trust Organic Sugar 5kg Premium Pack,Trust,Groceries,Sugar,170.95,206.02,332.0
+SYSP0000249,PROD536740,India Gate Brown Rice 10kg Bag,India Gate,Groceries,Rice,1104.51,1456.53,654.0
+SYSP0000250,PROD571635,Real Guava Juice 250ml Carton,Real,Beverages,Juices,125.87,147.74,194.0
+SYSP0000251,PROD141468,Daawat Sona Masoori 1kg Bag,Daawat,Groceries,Rice,502.43,668.98,454.0
+SYSP0000252,PROD449138,Motorola Motorola G57 512GB 12GB Blue,Motorola,Electronics,Mobile Phones,48351.54,68216.39,
+SYSP0000253,PROD837954,India Gate Basmati Rice 10kg Bag,India Gate,Groceries,Rice,1104.17,1500.22,670.0
+SYSP0000254,PROD374267,HP Envy 512GB 16GB White,HP,Electronics,Laptops,103365.01,130010.22,
+SYSP0000255,PROD534037,Trust Brown Sugar 1kg Premium Pack,Trust,Groceries,Sugar,459.74,579.83,507.0
+SYSP0000256,PROD259814,Apple iPhone 15 256GB 12GB Red,Apple,Electronics,Mobile Phones,56331.43,71837.98,
+SYSP0000257,PROD453961,HP Spectre 2TB 8GB White,HP,Electronics,Laptops,105064.25,150561.21,
+SYSP0000258,PROD277487,Patanjali Gluten-Free Flour 10kg Premium Pack,Patanjali,Groceries,Flour,167.86,233.07,651.0
+SYSP0000259,PROD901467,HP Pavilion 2TB 8GB Black,HP,Electronics,Laptops,144518.81,195167.55,
+SYSP0000260,PROD491329,HP Victus 256GB 32GB Silver,HP,Electronics,Laptops,50914.15,66275.96,
+SYSP0000261,PROD388086,Apple MacBook Air 256GB 32GB White,Apple,Electronics,Laptops,51185.1,66992.35,
+SYSP0000262,PROD749887,Nescafe Roasted Coffee 100g Jar,Nescafe,Beverages,Coffee,1406.09,1718.65,139.0
+SYSP0000263,PROD355021,Bru Vanilla Coffee 200g Jar,Bru,Beverages,Coffee,2406.38,3098.69,281.0
+SYSP0000264,PROD599127,Lipton Masala Tea 500g Box,Lipton,Beverages,Tea,452.86,572.03,137.0
+SYSP0000265,PROD199994,Apple iPhone 15 256GB 8GB Silver,Apple,Electronics,Mobile Phones,55268.53,77784.27,
+SYSP0000266,PROD393992,Tata Tea Green Tea 500g Pouch,Tata Tea,Beverages,Tea,122.84,144.01,228.0
+SYSP0000267,PROD888795,B Natural Orange Juice 250ml Carton,B Natural,Beverages,Juices,289.98,384.55,98.0
+SYSP0000268,PROD502491,Nescafe Vanilla Coffee 100g Jar,Nescafe,Beverages,Coffee,1757.18,2305.72,289.0
+SYSP0000269,PROD179710,Brooke Bond Masala Tea 500g Pouch,Brooke Bond,Beverages,Tea,169.87,207.18,117.0
+SYSP0000270,PROD572436,Organic India Organic Sugar 5kg Premium Pack,Organic India,Groceries,Sugar,328.04,454.36,210.0
+SYSP0000271,PROD189856,Fortune Sona Masoori 5kg Premium Pack,Fortune,Groceries,Rice,841.26,1134.19,370.0
+SYSP0000272,PROD261771,Nescafe Instant Coffee 100g Pouch,Nescafe,Beverages,Coffee,1074.0,1487.67,168.0
+SYSP0000273,PROD898329,Bru Vanilla Coffee 100g Jar,Bru,Beverages,Coffee,2368.81,3040.18,92.0
+SYSP0000274,PROD208310,India Gate Basmati Rice 1kg Premium Pack,India Gate,Groceries,Rice,703.82,917.59,639.0
+SYSP0000275,PROD533911,OnePlus OnePlus 12 512GB 12GB Silver,OnePlus,Electronics,Mobile Phones,79097.45,91254.9,
+SYSP0000276,PROD381444,Daawat Sona Masoori 1kg Bag,Daawat,Groceries,Rice,269.84,332.09,569.0
+SYSP0000277,PROD478666,India Gate Basmati Rice 5kg Premium Pack,India Gate,Groceries,Rice,415.72,575.69,611.0
+SYSP0000278,PROD514913,Daawat Sona Masoori 5kg Bag,Daawat,Groceries,Rice,199.81,248.04,648.0
+SYSP0000279,PROD723266,Trust Brown Sugar 5kg Premium Pack,Trust,Groceries,Sugar,413.27,581.82,620.0
+SYSP0000280,PROD434640,Lenovo Legion 2TB 8GB White,Lenovo,Electronics,Laptops,81418.33,117191.3,
+SYSP0000281,PROD512022,Organic India Organic Sugar 5kg Bag,Organic India,Groceries,Sugar,206.75,288.41,513.0
+SYSP0000282,PROD842776,Daawat Basmati Rice 10kg Bag,Daawat,Groceries,Rice,1147.37,1478.37,207.0
+SYSP0000283,PROD364955,Lenovo Legion 256GB 16GB White,Lenovo,Electronics,Laptops,63917.91,79312.53,
+SYSP0000284,PROD520274,Brooke Bond White Tea 250g Box,Brooke Bond,Beverages,Tea,991.44,1282.7,319.0
+SYSP0000285,PROD722665,B Natural Guava Juice 1L Bottle,B Natural,Beverages,Juices,222.42,309.98,274.0
+SYSP0000286,PROD776364,Tata Tea Green Tea 500g Pouch,Tata Tea,Beverages,Tea,675.24,785.5,175.0
+SYSP0000287,PROD883132,Tropicana Mixed Fruit Juice 500ml Bottle,Tropicana,Beverages,Juices,65.64,79.86,95.0
+SYSP0000288,PROD823975,B Natural Apple Juice 500ml Carton,B Natural,Beverages,Juices,160.4,217.16,290.0
+SYSP0000289,PROD221707,Lipton Masala Tea 250g Box,Lipton,Beverages,Tea,462.7,665.6,241.0
+SYSP0000290,PROD202365,Lipton Floral Tea 250g Pouch,Lipton,Beverages,Tea,559.43,701.8,195.0
+SYSP0000291,PROD123682,Organic India Brown Sugar 5kg Bag,Organic India,Groceries,Sugar,51.0,69.52,487.0
+SYSP0000292,PROD687044,Madhur Organic Sugar 1kg Bag,Madhur,Groceries,Sugar,111.99,134.17,708.0
+SYSP0000293,PROD130610,Aashirvaad Multigrain Flour 10kg Bag,Aashirvaad,Groceries,Flour,526.76,674.06,370.0
+SYSP0000294,PROD391865,Real Guava Juice 1L Carton,Real,Beverages,Juices,41.16,49.99,289.0
+SYSP0000295,PROD375097,Brooke Bond Masala Tea 500g Box,Brooke Bond,Beverages,Tea,379.91,489.04,277.0
+SYSP0000296,PROD986589,Continental Vanilla Coffee 500g Pouch,Continental,Beverages,Coffee,1550.11,1944.42,290.0
+SYSP0000297,PROD222629,Madhur Organic Sugar 5kg Bag,Madhur,Groceries,Sugar,177.2,216.46,317.0
+SYSP0000298,PROD610310,HP Spectre 512GB 32GB Silver,HP,Electronics,Laptops,107480.6,137243.23,
+SYSP0000299,PROD982885,B Natural Apple Juice 1L Bottle,B Natural,Beverages,Juices,115.1,138.83,340.0
+SYSP0000300,PROD688861,Madhur Brown Sugar 1kg Premium Pack,Madhur,Groceries,Sugar,121.71,153.99,319.0
+SYSP0000301,PROD275377,Tropicana Guava Juice 1L Carton,Tropicana,Beverages,Juices,224.64,288.25,302.0
+SYSP0000302,PROD579536,Apple iPhone 16 128GB 8GB Blue,Apple,Electronics,Mobile Phones,53008.69,63634.95,
+SYSP0000303,PROD484682,Tropicana Orange Juice 1L Bottle,Tropicana,Beverages,Juices,241.53,337.41,227.0
+SYSP0000304,PROD887842,Brooke Bond White Tea 500g Box,Brooke Bond,Beverages,Tea,174.22,243.74,307.0
+SYSP0000305,PROD913308,Dell XPS 512GB 16GB Black,Dell,Electronics,Laptops,93906.99,135994.91,
+SYSP0000306,PROD245998,Motorola Motorola G57 256GB 12GB Red,Motorola,Electronics,Mobile Phones,60621.65,72733.52,
+SYSP0000307,PROD838253,Samsung Galaxy S25 512GB 8GB Red,Samsung,Electronics,Mobile Phones,53101.48,66222.65,
+SYSP0000308,PROD162165,Patanjali Multigrain Flour 10kg Bag,Patanjali,Groceries,Flour,771.71,1069.36,318.0
+SYSP0000309,PROD898462,Madhur Organic Sugar 1kg Bag,Madhur,Groceries,Sugar,364.36,509.57,329.0
+SYSP0000310,PROD933197,Bru Filter Coffee 500g Pouch,Bru,Beverages,Coffee,1062.9,1246.41,302.0
+SYSP0000311,PROD710224,Asus Zephyrus 512GB 32GB Blue,Asus,Electronics,Laptops,95469.56,123768.01,
+SYSP0000312,PROD322142,Redmi Redmi Turbo 5 128GB 12GB White,Redmi,Electronics,Mobile Phones,27426.39,35075.42,
+SYSP0000313,PROD899281,Fortune Multigrain Flour 5kg Bag,Fortune,Groceries,Flour,639.11,906.42,676.0
+SYSP0000314,PROD548580,Samsung Galaxy Z Flip 8 128GB 4GB Blue,Samsung,Electronics,Mobile Phones,45302.88,52107.5,
+SYSP0000315,PROD780432,OnePlus OnePlus Nord CE4 256GB 4GB Silver,OnePlus,Electronics,Mobile Phones,30031.14,37885.88,
+SYSP0000316,PROD199807,Redmi Redmi Turbo 5 512GB 12GB Blue,Redmi,Electronics,Mobile Phones,44338.48,52202.34,
+SYSP0000317,PROD108454,Redmi Redmi Note 15 128GB 12GB Blue,Redmi,Electronics,Mobile Phones,51555.54,66172.57,
+SYSP0000318,PROD866260,Nescafe Roasted Coffee 500g Jar,Nescafe,Beverages,Coffee,362.91,459.05,334.0
+SYSP0000319,PROD239613,OnePlus OnePlus 15 256GB 4GB White,OnePlus,Electronics,Mobile Phones,71876.84,98898.75,
+SYSP0000320,PROD758589,Real Orange Juice 1L Bottle,Real,Beverages,Juices,154.43,211.06,174.0
+SYSP0000321,PROD865470,Lipton White Tea 100g Box,Lipton,Beverages,Tea,208.81,247.85,141.0
+SYSP0000322,PROD730193,Fortune Multigrain Flour 1kg Bag,Fortune,Groceries,Flour,529.91,648.85,463.0
+SYSP0000323,PROD297810,B Natural Mixed Fruit Juice 1L Bottle,B Natural,Beverages,Juices,93.42,124.44,244.0
+SYSP0000324,PROD722780,Bru Instant Coffee 100g Pouch,Bru,Beverages,Coffee,459.31,597.05,287.0
+SYSP0000325,PROD281162,OnePlus OnePlus 15 128GB 8GB Red,OnePlus,Electronics,Mobile Phones,43669.08,57377.1,
+SYSP0000326,PROD927630,India Gate Sona Masoori 1kg Bag,India Gate,Groceries,Rice,321.63,458.89,448.0
+SYSP0000327,PROD745972,Trust Organic Sugar 5kg Premium Pack,Trust,Groceries,Sugar,68.74,90.12,591.0
+SYSP0000328,PROD442622,Dell XPS 256GB 32GB Silver,Dell,Electronics,Laptops,147431.34,176418.28,
+SYSP0000329,PROD160718,Organic India Organic Sugar 1kg Premium Pack,Organic India,Groceries,Sugar,373.08,523.78,627.0
+SYSP0000330,PROD790017,Redmi Redmi Note 15 256GB 12GB Red,Redmi,Electronics,Mobile Phones,14402.29,19440.55,
+SYSP0000331,PROD648410,Tata Tea Masala Tea 500g Box,Tata Tea,Beverages,Tea,230.73,331.31,95.0
+SYSP0000332,PROD130782,Tropicana Apple Juice 500ml Bottle,Tropicana,Beverages,Juices,230.56,273.31,227.0
+SYSP0000333,PROD158132,Fortune Gluten-Free Flour 1kg Premium Pack,Fortune,Groceries,Flour,417.07,543.54,258.0
+SYSP0000334,PROD220936,Madhur Brown Sugar 1kg Premium Pack,Madhur,Groceries,Sugar,450.31,608.93,285.0
+SYSP0000335,PROD287654,Samsung Galaxy S24 128GB 4GB White,Samsung,Electronics,Mobile Phones,39118.12,55785.1,
+SYSP0000336,PROD490917,HP Envy 256GB 16GB Blue,HP,Electronics,Laptops,77125.8,90496.8,
+SYSP0000337,PROD396020,Apple iPhone 15 Pro 512GB 4GB White,Apple,Electronics,Mobile Phones,15514.12,20005.9,
+SYSP0000338,PROD418672,Aashirvaad Gluten-Free Flour 5kg Bag,Aashirvaad,Groceries,Flour,192.51,253.95,557.0
+SYSP0000339,PROD934638,Real Guava Juice 500ml Carton,Real,Beverages,Juices,230.44,302.79,190.0
+SYSP0000340,PROD110060,Samsung Galaxy Z Flip 8 128GB 4GB Red,Samsung,Electronics,Mobile Phones,37713.9,52870.07,
+SYSP0000341,PROD540208,Daawat Brown Rice 10kg Premium Pack,Daawat,Groceries,Rice,309.82,447.67,286.0
+SYSP0000342,PROD645007,India Gate Sona Masoori 5kg Bag,India Gate,Groceries,Rice,1111.83,1577.89,224.0
+SYSP0000343,PROD178465,Trust Brown Sugar 1kg Bag,Trust,Groceries,Sugar,92.75,129.48,697.0
+SYSP0000344,PROD939717,Real Guava Juice 1L Bottle,Real,Beverages,Juices,115.84,162.79,211.0
+SYSP0000345,PROD242723,Organic India Brown Sugar 5kg Premium Pack,Organic India,Groceries,Sugar,139.8,200.34,458.0
+SYSP0000346,PROD475691,Tata Tea Masala Tea 100g Pouch,Tata Tea,Beverages,Tea,368.91,437.61,328.0
+SYSP0000347,PROD966529,Lenovo IdeaPad 512GB 8GB Black,Lenovo,Electronics,Laptops,65761.54,89160.58,
+SYSP0000348,PROD473023,B Natural Orange Juice 250ml Carton,B Natural,Beverages,Juices,63.72,78.02,165.0
+SYSP0000349,PROD574167,Madhur Organic Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,44.61,56.71,358.0
+SYSP0000350,PROD112537,B Natural Apple Juice 250ml Carton,B Natural,Beverages,Juices,249.01,296.8,142.0
+SYSP0000351,PROD952227,Apple iPhone 15 Pro 256GB 8GB Black,Apple,Electronics,Mobile Phones,56585.9,69467.46,
+SYSP0000352,PROD948179,Samsung Galaxy A55 512GB 8GB Blue,Samsung,Electronics,Mobile Phones,17358.29,24374.21,
+SYSP0000353,PROD130914,India Gate Brown Rice 1kg Bag,India Gate,Groceries,Rice,1000.29,1268.87,623.0
+SYSP0000354,PROD255851,Trust White Sugar 5kg Bag,Trust,Groceries,Sugar,159.24,204.43,371.0
+SYSP0000355,PROD243902,OnePlus OnePlus Nord CE6 256GB 12GB White,OnePlus,Electronics,Mobile Phones,14878.33,18358.86,
+SYSP0000356,PROD670968,Daawat Sona Masoori 1kg Bag,Daawat,Groceries,Rice,955.75,1202.08,571.0
+SYSP0000357,PROD329659,Patanjali Gluten-Free Flour 5kg Premium Pack,Patanjali,Groceries,Flour,176.66,220.06,456.0
+SYSP0000358,PROD788772,Dell XPS 2TB 16GB Silver,Dell,Electronics,Laptops,147397.99,173935.57,
+SYSP0000359,PROD986278,Asus Zephyrus 256GB 8GB White,Asus,Electronics,Laptops,85480.46,119823.66,
+SYSP0000360,PROD834591,Apple iPhone 16 512GB 12GB Silver,Apple,Electronics,Mobile Phones,83118.4,96289.51,
+SYSP0000361,PROD158896,Organic India White Sugar 1kg Premium Pack,Organic India,Groceries,Sugar,112.51,130.67,496.0
+SYSP0000362,PROD851763,Samsung Galaxy Z Flip 8 128GB 8GB Red,Samsung,Electronics,Mobile Phones,26117.15,31057.13,
+SYSP0000363,PROD482614,Dell Inspiron 256GB 32GB Silver,Dell,Electronics,Laptops,127436.65,178913.95,
+SYSP0000364,PROD558089,Apple MacBook Air 512GB 16GB Blue,Apple,Electronics,Laptops,63645.17,76199.25,
+SYSP0000365,PROD496764,Continental Vanilla Coffee 100g Pouch,Continental,Beverages,Coffee,1730.72,2413.21,204.0
+SYSP0000366,PROD510623,Organic India Brown Sugar 1kg Bag,Organic India,Groceries,Sugar,475.93,682.77,181.0
+SYSP0000367,PROD881549,Tata Tea Floral Tea 500g Box,Tata Tea,Beverages,Tea,941.75,1122.75,143.0
+SYSP0000368,PROD864711,OnePlus OnePlus 15 128GB 12GB Black,OnePlus,Electronics,Mobile Phones,75732.94,102315.76,
+SYSP0000369,PROD855408,Aashirvaad Multigrain Flour 1kg Bag,Aashirvaad,Groceries,Flour,306.37,424.66,249.0
+SYSP0000370,PROD497108,Redmi Redmi Turbo 5 512GB 8GB Blue,Redmi,Electronics,Mobile Phones,80764.16,104825.79,
+SYSP0000371,PROD135035,Trust White Sugar 5kg Bag,Trust,Groceries,Sugar,242.11,336.47,346.0
+SYSP0000372,PROD867541,Fortune Brown Rice 1kg Bag,Fortune,Groceries,Rice,270.52,341.57,530.0
+SYSP0000373,PROD555292,OnePlus OnePlus Nord CE6 512GB 4GB White,OnePlus,Electronics,Mobile Phones,85395.38,102431.69,
+SYSP0000374,PROD865433,Samsung Galaxy S25 128GB 4GB White,Samsung,Electronics,Mobile Phones,65775.74,89889.88,
+SYSP0000375,PROD980651,Continental Vanilla Coffee 200g Jar,Continental,Beverages,Coffee,314.16,415.17,139.0
+SYSP0000376,PROD729371,India Gate Brown Rice 1kg Premium Pack,India Gate,Groceries,Rice,409.9,552.79,269.0
+SYSP0000377,PROD221119,India Gate Basmati Rice 1kg Bag,India Gate,Groceries,Rice,1174.3,1517.28,478.0
+SYSP0000378,PROD489043,Fortune Multigrain Flour 10kg Premium Pack,Fortune,Groceries,Flour,527.82,668.36,273.0
+SYSP0000379,PROD381607,Aashirvaad Multigrain Flour 1kg Premium Pack,Aashirvaad,Groceries,Flour,393.44,479.16,630.0
+SYSP0000380,PROD680493,Tata Tea Masala Tea 100g Pouch,Tata Tea,Beverages,Tea,973.05,1291.16,301.0
+SYSP0000381,PROD413369,Asus Scar 2TB 32GB White,Asus,Electronics,Laptops,107271.43,130945.44,
+SYSP0000382,PROD322182,Dell Inspiron 256GB 16GB Silver,Dell,Electronics,Laptops,144906.15,173909.03,
+SYSP0000383,PROD255061,Samsung Galaxy Z Flip 8 128GB 12GB White,Samsung,Electronics,Mobile Phones,26153.54,36530.46,
+SYSP0000384,PROD644932,Bru Instant Coffee 100g Pouch,Bru,Beverages,Coffee,1469.72,2067.88,293.0
+SYSP0000385,PROD716493,Daawat Sona Masoori 10kg Premium Pack,Daawat,Groceries,Rice,544.18,650.0,295.0
+SYSP0000386,PROD699809,Tata Tea Masala Tea 250g Pouch,Tata Tea,Beverages,Tea,323.01,434.91,300.0
+SYSP0000387,PROD521233,Nescafe Filter Coffee 200g Pouch,Nescafe,Beverages,Coffee,1621.96,2196.53,163.0
+SYSP0000388,PROD121215,Lenovo Legion 256GB 8GB White,Lenovo,Electronics,Laptops,142083.5,201632.03,
+SYSP0000389,PROD564635,Fortune Multigrain Flour 5kg Bag,Fortune,Groceries,Flour,142.13,204.99,413.0
+SYSP0000390,PROD526949,Patanjali Multigrain Flour 10kg Bag,Patanjali,Groceries,Flour,375.7,535.01,372.0
+SYSP0000391,PROD242239,Continental Vanilla Coffee 100g Jar,Continental,Beverages,Coffee,915.58,1192.12,123.0
+SYSP0000392,PROD477880,Real Apple Juice 250ml Bottle,Real,Beverages,Juices,104.87,134.96,119.0
+SYSP0000393,PROD612530,Lipton Floral Tea 250g Pouch,Lipton,Beverages,Tea,706.68,863.97,153.0
+SYSP0000394,PROD885342,Nescafe Roasted Coffee 500g Pouch,Nescafe,Beverages,Coffee,576.08,817.08,266.0
+SYSP0000395,PROD324729,Lipton Masala Tea 250g Box,Lipton,Beverages,Tea,865.52,1197.84,173.0
+SYSP0000396,PROD904858,Apple iPhone 16 512GB 8GB Red,Apple,Electronics,Mobile Phones,11604.19,16061.26,
+SYSP0000397,PROD420297,Lipton Green Tea 500g Box,Lipton,Beverages,Tea,285.87,380.92,94.0
+SYSP0000398,PROD416822,B Natural Mixed Fruit Juice 500ml Carton,B Natural,Beverages,Juices,159.34,193.67,268.0
+SYSP0000399,PROD984247,B Natural Guava Juice 1L Bottle,B Natural,Beverages,Juices,172.99,233.31,93.0
+SYSP0000400,PROD389913,Organic India Organic Sugar 5kg Premium Pack,Organic India,Groceries,Sugar,256.42,320.75,290.0
+SYSP0000401,PROD159532,Bru Vanilla Coffee 500g Pouch,Bru,Beverages,Coffee,544.84,751.68,186.0
+SYSP0000402,PROD372028,Continental Vanilla Coffee 500g Jar,Continental,Beverages,Coffee,1707.42,2474.46,103.0
+SYSP0000403,PROD660605,Fortune Gluten-Free Flour 1kg Bag,Fortune,Groceries,Flour,592.18,720.51,531.0
+SYSP0000404,PROD289934,Continental Vanilla Coffee 500g Pouch,Continental,Beverages,Coffee,2133.47,3014.48,177.0
+SYSP0000405,PROD786224,Fortune Basmati Rice 10kg Premium Pack,Fortune,Groceries,Rice,1140.55,1619.44,367.0
+SYSP0000406,PROD373216,OnePlus OnePlus Nord CE4 512GB 8GB White,OnePlus,Electronics,Mobile Phones,73047.23,91264.85,
+SYSP0000407,PROD225636,Bru Instant Coffee 200g Jar,Bru,Beverages,Coffee,1286.11,1554.09,126.0
+SYSP0000408,PROD529068,Continental Vanilla Coffee 200g Jar,Continental,Beverages,Coffee,515.94,624.33,167.0
+SYSP0000409,PROD285413,Nescafe Vanilla Coffee 500g Jar,Nescafe,Beverages,Coffee,1321.44,1769.82,131.0
+SYSP0000410,PROD901619,Madhur White Sugar 5kg Premium Pack,Madhur,Groceries,Sugar,387.76,465.54,394.0
+SYSP0000411,PROD501936,Dell Inspiron 2TB 16GB White,Dell,Electronics,Laptops,90339.35,130052.38,
+SYSP0000412,PROD656829,Motorola Motorola Razr 60 512GB 8GB Black,Motorola,Electronics,Mobile Phones,81360.51,112037.84,
+SYSP0000413,PROD627786,Samsung Galaxy A55 128GB 12GB Silver,Samsung,Electronics,Mobile Phones,34967.38,41289.92,
+SYSP0000414,PROD649577,Nescafe Instant Coffee 100g Pouch,Nescafe,Beverages,Coffee,1248.63,1630.82,238.0
+SYSP0000415,PROD951452,Patanjali Wheat Flour 5kg Premium Pack,Patanjali,Groceries,Flour,610.09,731.78,547.0
+SYSP0000416,PROD277193,India Gate Basmati Rice 10kg Bag,India Gate,Groceries,Rice,902.17,1197.1,396.0
+SYSP0000417,PROD213365,Dell XPS 2TB 16GB Black,Dell,Electronics,Laptops,109392.41,127375.22,
+SYSP0000418,PROD835962,Tata Tea Masala Tea 250g Pouch,Tata Tea,Beverages,Tea,193.71,237.45,284.0
+SYSP0000419,PROD735053,Samsung Galaxy S25 256GB 12GB Black,Samsung,Electronics,Mobile Phones,62998.64,77550.89,
+SYSP0000420,PROD308296,Lipton Masala Tea 500g Box,Lipton,Beverages,Tea,184.89,218.52,234.0
+SYSP0000421,PROD317782,Lipton Green Tea 250g Pouch,Lipton,Beverages,Tea,227.54,299.09,241.0
+SYSP0000422,PROD801520,Bru Filter Coffee 100g Jar,Bru,Beverages,Coffee,2285.82,3201.45,135.0
+SYSP0000423,PROD410401,India Gate Sona Masoori 1kg Bag,India Gate,Groceries,Rice,801.66,1031.76,442.0
+SYSP0000424,PROD546688,Aashirvaad Wheat Flour 1kg Bag,Aashirvaad,Groceries,Flour,313.76,424.53,477.0
+SYSP0000425,PROD752011,Tata Tea Masala Tea 100g Box,Tata Tea,Beverages,Tea,382.37,542.34,177.0
+SYSP0000426,PROD385037,Madhur Brown Sugar 5kg Bag,Madhur,Groceries,Sugar,218.37,314.17,296.0
+SYSP0000427,PROD985364,Trust Brown Sugar 1kg Bag,Trust,Groceries,Sugar,357.2,417.06,315.0
+SYSP0000428,PROD476018,Redmi Redmi Turbo 5 512GB 12GB White,Redmi,Electronics,Mobile Phones,24500.84,30967.23,
+SYSP0000429,PROD166412,Brooke Bond Green Tea 250g Pouch,Brooke Bond,Beverages,Tea,896.59,1149.61,147.0
+SYSP0000430,PROD199868,Trust White Sugar 1kg Premium Pack,Trust,Groceries,Sugar,275.86,375.22,711.0
+SYSP0000431,PROD742686,Organic India White Sugar 5kg Premium Pack,Organic India,Groceries,Sugar,99.87,139.61,574.0
+SYSP0000432,PROD446968,Apple iPhone 16 Pro 256GB 4GB Black,Apple,Electronics,Mobile Phones,70114.4,87375.87,
+SYSP0000433,PROD565765,Daawat Basmati Rice 10kg Premium Pack,Daawat,Groceries,Rice,995.16,1167.97,592.0
+SYSP0000434,PROD118632,Nescafe Roasted Coffee 200g Pouch,Nescafe,Beverages,Coffee,2455.54,3372.86,150.0
+SYSP0000435,PROD749137,Apple MacBook Air 2TB 32GB Black,Apple,Electronics,Laptops,132590.88,183974.48,
+SYSP0000436,PROD333746,Continental Filter Coffee 500g Pouch,Continental,Beverages,Coffee,1035.69,1207.91,264.0
+SYSP0000437,PROD896204,Patanjali Gluten-Free Flour 10kg Premium Pack,Patanjali,Groceries,Flour,584.09,691.68,552.0
+SYSP0000438,PROD272129,Tata Tea Floral Tea 250g Pouch,Tata Tea,Beverages,Tea,423.98,501.1,357.0
+SYSP0000439,PROD226611,Daawat Sona Masoori 10kg Premium Pack,Daawat,Groceries,Rice,364.8,440.96,289.0
+SYSP0000440,PROD764000,Fortune Basmati Rice 10kg Premium Pack,Fortune,Groceries,Rice,928.01,1080.16,290.0
+SYSP0000441,PROD680099,Real Guava Juice 500ml Bottle,Real,Beverages,Juices,41.13,56.38,345.0
+SYSP0000442,PROD735605,Trust Organic Sugar 1kg Bag,Trust,Groceries,Sugar,78.67,105.99,311.0
+SYSP0000443,PROD574843,Trust Brown Sugar 1kg Premium Pack,Trust,Groceries,Sugar,482.89,695.92,587.0
+SYSP0000444,PROD763311,Redmi Redmi Turbo 5 512GB 12GB Silver,Redmi,Electronics,Mobile Phones,66949.95,95782.19,
+SYSP0000445,PROD286450,Apple iPhone 16 512GB 8GB Blue,Apple,Electronics,Mobile Phones,88506.84,119043.99,
+SYSP0000446,PROD799565,B Natural Mixed Fruit Juice 1L Bottle,B Natural,Beverages,Juices,186.19,246.67,270.0
+SYSP0000447,PROD155642,Continental Vanilla Coffee 200g Jar,Continental,Beverages,Coffee,444.88,562.44,357.0
+SYSP0000448,PROD922458,Tata Tea Floral Tea 100g Pouch,Tata Tea,Beverages,Tea,214.71,250.91,218.0
+SYSP0000449,PROD689179,Daawat Basmati Rice 5kg Premium Pack,Daawat,Groceries,Rice,770.04,1041.6,284.0
+SYSP0000450,PROD926394,HP Envy 2TB 32GB Black,HP,Electronics,Laptops,142648.48,180630.98,
+SYSP0000451,PROD564586,Continental Instant Coffee 100g Pouch,Continental,Beverages,Coffee,1627.29,2252.62,193.0
+SYSP0000452,PROD408467,Asus Zephyrus 2TB 32GB Silver,Asus,Electronics,Laptops,127614.67,183674.13,
+SYSP0000453,PROD392670,Daawat Basmati Rice 1kg Bag,Daawat,Groceries,Rice,213.68,248.34,706.0
+SYSP0000454,PROD262325,Nescafe Filter Coffee 500g Pouch,Nescafe,Beverages,Coffee,960.29,1308.79,92.0
+SYSP0000455,PROD475479,OnePlus OnePlus 12 512GB 12GB Silver,OnePlus,Electronics,Mobile Phones,49244.08,65090.98,
+SYSP0000456,PROD669460,Asus Vivobook 256GB 32GB Black,Asus,Electronics,Laptops,128625.82,154069.44,
+SYSP0000457,PROD889216,Nescafe Vanilla Coffee 100g Jar,Nescafe,Beverages,Coffee,961.45,1190.34,259.0
+SYSP0000458,PROD751303,Tropicana Orange Juice 250ml Carton,Tropicana,Beverages,Juices,102.49,137.61,318.0
+SYSP0000459,PROD641975,OnePlus OnePlus Nord CE6 128GB 8GB Silver,OnePlus,Electronics,Mobile Phones,53218.99,65717.4,
+SYSP0000460,PROD638857,Organic India Brown Sugar 5kg Bag,Organic India,Groceries,Sugar,452.19,546.13,483.0
+SYSP0000461,PROD818699,Apple iPhone 15 512GB 4GB Blue,Apple,Electronics,Mobile Phones,63626.81,87937.0,
+SYSP0000462,PROD581532,India Gate Sona Masoori 10kg Premium Pack,India Gate,Groceries,Rice,916.52,1096.27,253.0
+SYSP0000463,PROD702891,Nescafe Instant Coffee 100g Jar,Nescafe,Beverages,Coffee,2026.69,2670.01,181.0
+SYSP0000464,PROD806004,Apple MacBook Pro 512GB 32GB White,Apple,Electronics,Laptops,93302.5,107770.67,
+SYSP0000465,PROD627262,Motorola Motorola Razr 60 512GB 12GB Black,Motorola,Electronics,Mobile Phones,66070.56,77419.95,
+SYSP0000466,PROD132316,Lenovo Legion 256GB 16GB White,Lenovo,Electronics,Laptops,88141.36,123101.46,
+SYSP0000467,PROD810189,Daawat Basmati Rice 1kg Premium Pack,Daawat,Groceries,Rice,1155.35,1378.59,482.0
+SYSP0000468,PROD513224,Tropicana Orange Juice 1L Bottle,Tropicana,Beverages,Juices,50.86,67.23,153.0
+SYSP0000469,PROD637450,Real Mixed Fruit Juice 250ml Carton,Real,Beverages,Juices,147.29,197.93,198.0
+SYSP0000470,PROD694849,Apple iPhone 15 Pro 512GB 8GB Blue,Apple,Electronics,Mobile Phones,19169.8,25904.02,
+SYSP0000471,PROD708798,Asus Vivobook 512GB 32GB Black,Asus,Electronics,Laptops,75068.76,90775.04,
+SYSP0000472,PROD302897,Fortune Wheat Flour 10kg Bag,Fortune,Groceries,Flour,256.7,300.58,282.0
+SYSP0000473,PROD431699,Fortune Multigrain Flour 10kg Premium Pack,Fortune,Groceries,Flour,469.82,591.67,336.0
+SYSP0000474,PROD812591,India Gate Brown Rice 1kg Bag,India Gate,Groceries,Rice,389.88,490.41,626.0
+SYSP0000475,PROD776909,Bru Roasted Coffee 200g Pouch,Bru,Beverages,Coffee,1320.03,1561.13,246.0
+SYSP0000476,PROD862760,Lipton Green Tea 500g Box,Lipton,Beverages,Tea,754.86,1009.99,224.0
+SYSP0000477,PROD138436,Motorola Motorola G57 128GB 12GB Red,Motorola,Electronics,Mobile Phones,42410.76,56279.54,
+SYSP0000478,PROD718241,Continental Roasted Coffee 500g Jar,Continental,Beverages,Coffee,1102.75,1563.07,277.0
+SYSP0000479,PROD350484,Nescafe Roasted Coffee 500g Jar,Nescafe,Beverages,Coffee,1036.89,1195.72,293.0
+SYSP0000480,PROD253300,Real Apple Juice 500ml Bottle,Real,Beverages,Juices,187.25,247.12,181.0
+SYSP0000481,PROD345386,Tropicana Mixed Fruit Juice 250ml Bottle,Tropicana,Beverages,Juices,100.25,123.24,339.0
+SYSP0000482,PROD780027,Motorola Motorola Edge 70 256GB 8GB White,Motorola,Electronics,Mobile Phones,80524.16,93566.77,
+SYSP0000483,PROD494956,Daawat Sona Masoori 10kg Premium Pack,Daawat,Groceries,Rice,728.07,961.82,449.0
+SYSP0000484,PROD525556,Bru Instant Coffee 500g Pouch,Bru,Beverages,Coffee,2437.15,2965.69,282.0
+SYSP0000485,PROD341162,Fortune Multigrain Flour 10kg Bag,Fortune,Groceries,Flour,710.35,910.65,693.0
+SYSP0000486,PROD793223,HP Victus 256GB 8GB Blue,HP,Electronics,Laptops,110202.03,153741.37,
+SYSP0000487,PROD778700,Lenovo Legion 256GB 16GB White,Lenovo,Electronics,Laptops,97902.12,129939.34,
+SYSP0000488,PROD700067,India Gate Basmati Rice 1kg Bag,India Gate,Groceries,Rice,785.09,912.08,317.0
+SYSP0000489,PROD119524,Apple iPhone 16 128GB 12GB White,Apple,Electronics,Mobile Phones,57948.6,76438.92,
+SYSP0000490,PROD605065,B Natural Mixed Fruit Juice 250ml Bottle,B Natural,Beverages,Juices,197.7,255.31,319.0
+SYSP0000491,PROD859364,Redmi Redmi Note 15 512GB 4GB Red,Redmi,Electronics,Mobile Phones,62771.9,77169.03,
+SYSP0000492,PROD648102,Bru Instant Coffee 100g Pouch,Bru,Beverages,Coffee,504.09,582.21,287.0
+SYSP0000493,PROD140932,Tropicana Apple Juice 1L Bottle,Tropicana,Beverages,Juices,163.73,218.49,180.0
+SYSP0000494,PROD780768,Real Orange Juice 500ml Bottle,Real,Beverages,Juices,273.21,377.7,90.0
+SYSP0000495,PROD906010,Trust Brown Sugar 1kg Premium Pack,Trust,Groceries,Sugar,471.06,609.85,414.0
+SYSP0000496,PROD343807,Patanjali Gluten-Free Flour 10kg Bag,Patanjali,Groceries,Flour,141.75,183.3,615.0
+SYSP0000497,PROD107459,Asus Zephyrus 512GB 16GB Silver,Asus,Electronics,Laptops,50546.95,69405.7,
+SYSP0000498,PROD546768,Real Orange Juice 500ml Bottle,Real,Beverages,Juices,146.3,172.92,251.0
+SYSP0000499,PROD516760,Tropicana Mixed Fruit Juice 1L Carton,Tropicana,Beverages,Juices,199.09,288.19,277.0
+SYSP0000500,PROD421549,Asus Zephyrus 512GB 8GB Blue,Asus,Electronics,Laptops,105909.38,137166.21,

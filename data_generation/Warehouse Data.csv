@@ -1,0 +1,61 @@
+WarehouseSysID,WarehouseID,WarehouseName,WarehouseType,City,State,Manager,Capacity,OperatingHours,AutomationLevel,ActiveStatus
+SYSWH0000001,WH770487,Supreme Zone Center,Regional Distribution Center,New Delhi,Delhi,Aryan Maharaj,98289,Two Shifts,Automated,Active
+SYSWH0000002,WH191161,Prime Logistics Park,National Distribution Center,Chennai,Tamil Nadu,Udant Dewan,310990,24x7,Manual,Active
+SYSWH0000003,WH781453,Unity Supply Center,Regional Distribution Center,Noida,Uttar Pradesh,Gagan Sami,116463,24x7,Automated,Active
+SYSWH0000004,WH832052,Central Warehouse,Regional Distribution Center,Bengaluru,Karnataka,Ayushman Chander,124118,24x7,Semi-Automated,Active
+SYSWH0000005,WH460663,Prime Logistics Center,Regional Distribution Center,Ahmedabad,Gujarat,Viraj Tiwari,129615,24x7,Semi-Automated,Active
+SYSWH0000006,WH479201,National Distribution Hub,National Distribution Center,Chennai,Tamil Nadu,Rushil Saini,309742,Day Shift,Automated,Active
+SYSWH0000007,WH205907,Nova Supply Hub,Fulfillment Center,Bengaluru,Karnataka,Saumya Mall,30659,24x7,Semi-Automated,Active
+SYSWH0000008,WH816751,Silver Supply Hub,Regional Distribution Center,Ahmedabad,Gujarat,Nathaniel Sami,175568,24x7,Semi-Automated,Active
+SYSWH0000009,WH771088,Elite Supply Hub,Regional Distribution Center,Ahmedabad,Gujarat,Arunima Dugal,87331,24x7,Semi-Automated,Active
+SYSWH0000010,WH380746,Blue Storage Hub,Regional Distribution Center,New Delhi,Delhi,Gayathri Chaudry,145435,Day Shift,Semi-Automated,Active
+SYSWH0000011,WH377746,Supreme Distribution Park,Regional Distribution Center,New Delhi,Delhi,Lajita Chatterjee,177912,Day Shift,Semi-Automated,Active
+SYSWH0000012,WH329974,Pioneer Distribution Park,Regional Distribution Center,Coimbatore,Tamil Nadu,Hemangini Lalla,179061,24x7,Semi-Automated,Active
+SYSWH0000013,WH930555,Silver Distribution Hub,Regional Distribution Center,Ahmedabad,Gujarat,Tripti Yadav,158104,Two Shifts,Automated,Inactive
+SYSWH0000014,WH112038,Horizon Supply Hub,Fulfillment Center,Ahmedabad,Gujarat,Kritika Brar,69209,Two Shifts,Manual,Active
+SYSWH0000015,WH555884,Apex Zone Center,Fulfillment Center,Mumbai,Maharashtra,Janaki Handa,69935,Day Shift,Automated,Active
+SYSWH0000016,WH412942,Global Operations Hub,Regional Distribution Center,Pune,Maharashtra,Chakradev Kari,129009,Two Shifts,Semi-Automated,Active
+SYSWH0000017,WH656116,Silver Storage Hub,Regional Distribution Center,Ghaziabad,Uttar Pradesh,Fariq Kaul,94662,Day Shift,Automated,Active
+SYSWH0000018,WH422451,Elite Operations Hub,Fulfillment Center,Mumbai,Maharashtra,Lajita Mall,25613,Day Shift,Automated,Active
+SYSWH0000019,WH658582,Pioneer Supply Hub,Regional Distribution Center,Noida,Uttar Pradesh,Janya Gaba,152063,Two Shifts,Semi-Automated,Active
+SYSWH0000020,WH322086,Titan Supply Center,Fulfillment Center,Lucknow,Uttar Pradesh,Isha Kadakia,46148,Two Shifts,Semi-Automated,Inactive
+SYSWH0000021,WH642717,Elite Supply Center,National Distribution Center,Bengaluru,Karnataka,Ekbal Garg,255514,24x7,Manual,Active
+SYSWH0000022,WH174441,Prime Supply Center,National Distribution Center,Noida,Uttar Pradesh,Nihal Shere,258234,24x7,Manual,Active
+SYSWH0000023,WH801474,Rapid Warehouse,Fulfillment Center,Chennai,Tamil Nadu,Anamika Kanda,57423,24x7,Semi-Automated,Active
+SYSWH0000024,WH526833,Horizon Supply Hub,Regional Distribution Center,Mumbai,Maharashtra,Daksh Karnik,135519,Day Shift,Manual,Active
+SYSWH0000025,WH785197,Horizon Logistics Park,Regional Distribution Center,Mangalore,Karnataka,Diya Rattan,124473,24x7,Manual,Active
+SYSWH0000026,WH662336,Unity Warehouse,Regional Distribution Center,Bengaluru,Karnataka,Dominic Kakar,112742,24x7,Automated,Active
+SYSWH0000027,WH997546,Prime Supply Hub,Fulfillment Center,Chennai,Tamil Nadu,Simon Tata,20967,Day Shift,Automated,Inactive
+SYSWH0000028,WH274389,Metro Supply Center,Fulfillment Center,Bengaluru,Karnataka,Tara Dhar,23842,24x7,Semi-Automated,Active
+SYSWH0000029,WH922157,North Inventory Center,Fulfillment Center,Noida,Uttar Pradesh,Liam Koshy,67874,Two Shifts,Semi-Automated,Inactive
+SYSWH0000030,WH262316,Summit Logistics Park,Fulfillment Center,Mumbai,Maharashtra,Priya Rastogi,55533,24x7,Manual,Active
+SYSWH0000031,WH599948,Global Warehouse,National Distribution Center,Chennai,Tamil Nadu,Theodore Devi,383124,24x7,Semi-Automated,Active
+SYSWH0000032,WH808011,West Distribution Hub,Fulfillment Center,Pune,Maharashtra,Gavin Batta,57334,Two Shifts,Semi-Automated,Active
+SYSWH0000033,WH539589,Blue Distribution Park,Regional Distribution Center,Ahmedabad,Gujarat,Michael Dutta,114179,Two Shifts,Manual,Active
+SYSWH0000034,WH515011,Golden Zone Center,Regional Distribution Center,New Delhi,Delhi,Devansh Rajan,178548,24x7,Semi-Automated,Active
+SYSWH0000035,WH690341,Velocity Distribution Park,Regional Distribution Center,Coimbatore,Tamil Nadu,Upadhriti Wadhwa,114760,24x7,Manual,Active
+SYSWH0000036,WH356150,Vertex Logistics Center,Fulfillment Center,Bengaluru,Karnataka,Advay Contractor,66107,Day Shift,Automated,Active
+SYSWH0000037,WH654634,Rapid Zone Center,Fulfillment Center,New Delhi,Delhi,Harini Choudhury,26788,24x7,Manual,Active
+SYSWH0000038,WH212235,Pioneer Zone Center,Regional Distribution Center,Noida,Uttar Pradesh,Radhika Dugar,107607,24x7,Semi-Automated,Active
+SYSWH0000039,WH376807,Central Logistics Park,National Distribution Center,Chennai,Tamil Nadu,Aarush Lall,361037,24x7,Semi-Automated,Active
+SYSWH0000040,WH237174,Central Warehouse,Fulfillment Center,Ahmedabad,Gujarat,Yashica Cherian,56154,Two Shifts,Manual,Active
+SYSWH0000041,WH824586,Rapid Logistics Park,Fulfillment Center,Ghaziabad,Uttar Pradesh,Yashica Issac,58175,24x7,Manual,Active
+SYSWH0000042,WH482364,Prime Storage Hub,Regional Distribution Center,Ghaziabad,Uttar Pradesh,Kashvi Edwin,112706,24x7,Semi-Automated,Active
+SYSWH0000043,WH526117,Supreme Warehouse,Fulfillment Center,Nagpur,Maharashtra,Ekiya Suresh,35514,Day Shift,Automated,Active
+SYSWH0000044,WH532322,Supreme Storage Hub,Fulfillment Center,New Delhi,Delhi,Isaac Patil,46982,Day Shift,Automated,Active
+SYSWH0000045,WH379766,National Distribution Hub,Regional Distribution Center,Mumbai,Maharashtra,Wriddhish Bhardwaj,85075,24x7,Automated,Active
+SYSWH0000046,WH582662,Elite Supply Center,National Distribution Center,Bengaluru,Karnataka,Farhan Chada,300627,24x7,Manual,Active
+SYSWH0000047,WH910891,Golden Distribution Park,Regional Distribution Center,Mumbai,Maharashtra,Ekapad Walia,150282,24x7,Automated,Active
+SYSWH0000048,WH373903,Central Logistics Park,Regional Distribution Center,Mumbai,Maharashtra,Kabir Soman,136959,Two Shifts,Semi-Automated,Active
+SYSWH0000049,WH636265,Blue Supply Center,Regional Distribution Center,New Delhi,Delhi,Alka Wable,172901,Two Shifts,Automated,Active
+SYSWH0000050,WH820221,Supreme Supply Hub,Regional Distribution Center,Noida,Uttar Pradesh,Siddharth Zacharia,136531,Two Shifts,Semi-Automated,Active
+SYSWH0000051,WH429164,Horizon Zone Center,Regional Distribution Center,Ahmedabad,Gujarat,Devika Rastogi,167410,24x7,Semi-Automated,Active
+SYSWH0000052,WH233470,Urban Inventory Center,Fulfillment Center,Mumbai,Maharashtra,Raksha Varughese,31405,24x7,Semi-Automated,Active
+SYSWH0000053,WH100425,Summit Inventory Center,Fulfillment Center,Mumbai,Maharashtra,Jai Kota,59758,24x7,Semi-Automated,Active
+SYSWH0000054,WH324082,Supreme Warehouse,Fulfillment Center,Chennai,Tamil Nadu,Devansh Nigam,38598,Two Shifts,Semi-Automated,Active
+SYSWH0000055,WH958179,Elite Supply Hub,Regional Distribution Center,Kanpur,Uttar Pradesh,Victor Kannan,106100,24x7,Automated,Active
+SYSWH0000056,WH740967,Velocity Logistics Center,Regional Distribution Center,Pune,Maharashtra,Ekavir Bhargava,162544,Two Shifts,Semi-Automated,Active
+SYSWH0000057,WH519066,Golden Logistics Park,Fulfillment Center,Mumbai,Maharashtra,Ekansh Balay,26985,24x7,Automated,Active
+SYSWH0000058,WH829716,Prime Distribution Park,Regional Distribution Center,Chennai,Tamil Nadu,Ekavir Varkey,95906,Day Shift,Semi-Automated,Active
+SYSWH0000059,WH686075,Titan Logistics Center,Fulfillment Center,Chennai,Tamil Nadu,Arya Sunder,67138,24x7,Automated,Active
+SYSWH0000060,WH567574,Supreme Logistics Center,Regional Distribution Center,Ghaziabad,Uttar Pradesh,Kevin Solanki,178536,Two Shifts,Semi-Automated,Active

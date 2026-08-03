@@ -1,0 +1,251 @@
+StoreSysID,StoreID,StoreName,StoreType,City,State,StoreLocationType,Manager,OpeningYear,FloorAreaSqFt,ActiveStatus
+SYSST0000001,STR770487,Quick Store,Hypermarket,New Delhi,Delhi,High Street,Aryan Maharaj,2017,66717,Active
+SYSST0000002,STR542417,Smart Store,Hypermarket,New Delhi,Delhi,Mall,Udant Dewan,2006,99453,Active
+SYSST0000003,STR835392,Family Market,Supermarket,Chennai,Tamil Nadu,Commercial,Gagan Sami,2005,18212,Active
+SYSST0000004,STR456778,Prime Bazaar,Supermarket,Mumbai,Maharashtra,High Street,Ayushman Chander,2011,21039,Active
+SYSST0000005,STR733052,Daily Superstore,Supermarket,Mumbai,Maharashtra,Rural,Viraj Tiwari,2012,22090,Active
+SYSST0000006,STR407419,Happy Outlet,Supermarket,Ghaziabad,Uttar Pradesh,Mall,Rushil Saini,2007,13139,Active
+SYSST0000007,STR183667,Urban Market,Supermarket,Lucknow,Uttar Pradesh,Rural,Saumya Mall,2005,22415,Active
+SYSST0000008,STR319684,Smart Outlet,Supermarket,Noida,Uttar Pradesh,Residential,Nathaniel Sami,2005,20751,Active
+SYSST0000009,STR383060,Family Superstore,Supermarket,Surat,Gujarat,Rural,Arunima Dugal,2007,24588,Active
+SYSST0000010,STR944151,Quick Mart,Hypermarket,Bengaluru,Karnataka,Residential,Gayathri Chaudry,2010,97170,Active
+SYSST0000011,STR623481,Big Store,Supermarket,Bengaluru,Karnataka,Commercial,Lajita Chatterjee,2017,26081,Active
+SYSST0000012,STR712982,Elite Retail,Hypermarket,Bengaluru,Karnataka,High Street,Hemangini Lalla,2002,69065,Active
+SYSST0000013,STR214975,Value Bazaar,Supermarket,Mumbai,Maharashtra,High Street,Tripti Yadav,2019,20081,Inactive
+SYSST0000014,STR654816,Fresh Superstore,Supermarket,Mumbai,Maharashtra,Commercial,Kritika Brar,2010,26743,Active
+SYSST0000015,STR555884,Fresh Superstore,Convenience Store,Mumbai,Maharashtra,Rural,Janaki Handa,2024,3657,Active
+SYSST0000016,STR211579,City Bazaar,Convenience Store,Lucknow,Uttar Pradesh,High Street,Chakradev Kari,2011,6488,Active
+SYSST0000017,STR665579,Fresh Outlet,Supermarket,Coimbatore,Tamil Nadu,High Street,Fariq Kaul,2011,12319,Active
+SYSST0000018,STR972064,Family Mart,Supermarket,Ghaziabad,Uttar Pradesh,Rural,Lajita Mall,2002,21295,Active
+SYSST0000019,STR955662,Metro Store,Supermarket,New Delhi,Delhi,Mall,Janya Gaba,2019,23410,Active
+SYSST0000020,STR322086,Prime Superstore,Supermarket,Nagpur,Maharashtra,Residential,Isha Kadakia,2014,23004,Active
+SYSST0000021,STR573417,Family Mart,Supermarket,New Delhi,Delhi,High Street,Ekbal Garg,2000,25540,Active
+SYSST0000022,STR761759,Smart Mart,Convenience Store,New Delhi,Delhi,High Street,Nihal Shere,2008,2080,Active
+SYSST0000023,STR324643,Reliance Store,Supermarket,Chennai,Tamil Nadu,Mall,Anamika Kanda,2003,31338,Active
+SYSST0000024,STR471507,Big Bazaar,Supermarket,Bengaluru,Karnataka,Mall,Daksh Karnik,2023,21224,Active
+SYSST0000025,STR214576,Prime Outlet,Supermarket,Mumbai,Maharashtra,Mall,Diya Rattan,2014,31824,Active
+SYSST0000026,STR179046,Urban Mart,Supermarket,Chennai,Tamil Nadu,Rural,Dominic Kakar,2024,18483,Active
+SYSST0000027,STR274389,Reliance Store,Convenience Store,Bengaluru,Karnataka,Mall,Simon Tata,2000,1980,Inactive
+SYSST0000028,STR378085,Big Retail,Supermarket,Nagpur,Maharashtra,Rural,Tara Dhar,2017,23968,Active
+SYSST0000029,STR610311,City Store,Convenience Store,Mumbai,Maharashtra,Commercial,Liam Koshy,2001,6244,Active
+SYSST0000030,STR159942,Reliance Outlet,Convenience Store,New Delhi,Delhi,Mall,Priya Rastogi,2016,5850,Active
+SYSST0000031,STR294851,Smart Superstore,Convenience Store,New Delhi,Delhi,Mall,Theodore Devi,2018,4807,Active
+SYSST0000032,STR723398,Smart Market,Supermarket,New Delhi,Delhi,Residential,Gavin Batta,2006,28366,Active
+SYSST0000033,STR429445,Elite Store,Supermarket,Mumbai,Maharashtra,High Street,Michael Dutta,2024,27830,Active
+SYSST0000034,STR109767,Urban Mart,Supermarket,Chennai,Tamil Nadu,Mall,Devansh Rajan,2011,34576,Active
+SYSST0000035,STR356150,Value Market,Convenience Store,Bengaluru,Karnataka,High Street,Upadhriti Wadhwa,2025,7263,Active
+SYSST0000036,STR108203,City Superstore,Supermarket,Noida,Uttar Pradesh,High Street,Advay Contractor,2003,14200,Active
+SYSST0000037,STR262998,Prime Superstore,Supermarket,Mumbai,Maharashtra,High Street,Harini Choudhury,2008,26650,Active
+SYSST0000038,STR987204,Nova Bazaar,Supermarket,New Delhi,Delhi,High Street,Radhika Dugar,2004,18116,Active
+SYSST0000039,STR374680,Big Outlet,Supermarket,Mumbai,Maharashtra,Mall,Aarush Lall,2022,18316,Active
+SYSST0000040,STR672092,Happy Outlet,Supermarket,New Delhi,Delhi,Mall,Yashica Cherian,2009,32083,Active
+SYSST0000041,STR934794,Daily Retail,Supermarket,Surat,Gujarat,Residential,Yashica Issac,2011,16088,Active
+SYSST0000042,STR526117,Metro Store,Convenience Store,Surat,Gujarat,Rural,Kashvi Edwin,2000,2950,Active
+SYSST0000043,STR448321,Nova Bazaar,Supermarket,Pune,Maharashtra,Residential,Ekiya Suresh,2008,24043,Active
+SYSST0000044,STR835343,Daily Bazaar,Supermarket,New Delhi,Delhi,Commercial,Isaac Patil,2014,24539,Active
+SYSST0000045,STR960394,Family Store,Hypermarket,Ghaziabad,Uttar Pradesh,High Street,Wriddhish Bhardwaj,2008,51328,Active
+SYSST0000046,STR910891,Elite Superstore,Convenience Store,Mumbai,Maharashtra,High Street,Farhan Chada,2000,5892,Active
+SYSST0000047,STR373903,Quick Mart,Hypermarket,Mumbai,Maharashtra,High Street,Ekapad Walia,2025,88479,Active
+SYSST0000048,STR735656,Urban Market,Convenience Store,Surat,Gujarat,Commercial,Kabir Soman,2022,3057,Active
+SYSST0000049,STR645175,Prime Retail,Supermarket,Nagpur,Maharashtra,Rural,Alka Wable,2019,22882,Active
+SYSST0000050,STR989208,City Outlet,Supermarket,New Delhi,Delhi,High Street,Siddharth Zacharia,2022,31382,Active
+SYSST0000051,STR233470,Elite Superstore,Supermarket,Mumbai,Maharashtra,High Street,Devika Rastogi,2009,23702,Active
+SYSST0000052,STR974224,City Store,Supermarket,New Delhi,Delhi,High Street,Raksha Varughese,2014,28559,Active
+SYSST0000053,STR636004,Value Superstore,Hypermarket,Chennai,Tamil Nadu,High Street,Jai Kota,2019,93780,Active
+SYSST0000054,STR958179,Family Superstore,Supermarket,Coimbatore,Tamil Nadu,High Street,Devansh Nigam,2001,15262,Active
+SYSST0000055,STR598216,Smart Market,Supermarket,Ahmedabad,Gujarat,Commercial,Victor Kannan,2022,22318,Active
+SYSST0000056,STR618392,Metro Superstore,Supermarket,Bengaluru,Karnataka,Commercial,Ekavir Bhargava,2007,21492,Active
+SYSST0000057,STR829716,Daily Outlet,Hypermarket,Chennai,Tamil Nadu,High Street,Ekansh Balay,2025,67953,Active
+SYSST0000058,STR656932,Green Bazaar,Convenience Store,Surat,Gujarat,Rural,Ekavir Varkey,2016,6518,Active
+SYSST0000059,STR674485,Value Superstore,Convenience Store,Chennai,Tamil Nadu,Mall,Arya Sunder,2007,5186,Active
+SYSST0000060,STR390782,Reliance Superstore,Supermarket,Pune,Maharashtra,Mall,Kevin Solanki,2009,19206,Active
+SYSST0000061,STR452161,Smart Store,Hypermarket,Bengaluru,Karnataka,High Street,Urvashi Ray,2022,85102,Active
+SYSST0000062,STR535020,Big Market,Hypermarket,Bengaluru,Karnataka,High Street,Girindra Chatterjee,2024,87534,Active
+SYSST0000063,STR829308,Elite Market,Hypermarket,New Delhi,Delhi,Mall,Irya Sampath,2012,83052,Active
+SYSST0000064,STR976325,Family Market,Hypermarket,Bengaluru,Karnataka,High Street,Unni Bhagat,2012,88562,Active
+SYSST0000065,STR812131,Value Bazaar,Supermarket,Ghaziabad,Uttar Pradesh,Rural,Darsh Rau,2017,14091,Active
+SYSST0000066,STR513160,Fresh Mart,Supermarket,Ahmedabad,Gujarat,Residential,Ikbal Kothari,2005,14223,Active
+SYSST0000067,STR497519,Big Retail,Supermarket,Bengaluru,Karnataka,Mall,Ranveer Yadav,2013,30423,Active
+SYSST0000068,STR185884,Daily Retail,Hypermarket,Chennai,Tamil Nadu,Commercial,Logan Sami,2020,64496,Active
+SYSST0000069,STR132537,Prime Bazaar,Hypermarket,Mangalore,Karnataka,Commercial,Arya Shere,2015,49993,Active
+SYSST0000070,STR691364,Big Superstore,Supermarket,Mangalore,Karnataka,High Street,Faqid Savant,2019,18043,Active
+SYSST0000071,STR853252,Value Retail,Hypermarket,New Delhi,Delhi,Residential,Chandresh Zachariah,2018,61682,Active
+SYSST0000072,STR493537,Prime Mart,Supermarket,Bengaluru,Karnataka,Mall,Girik Khalsa,2024,25957,Active
+SYSST0000073,STR817497,Urban Bazaar,Convenience Store,Ahmedabad,Gujarat,Mall,Niharika Sunder,2017,7911,Active
+SYSST0000074,STR488571,Green Mart,Convenience Store,New Delhi,Delhi,Mall,Tanay Rattan,2011,5515,Active
+SYSST0000075,STR968962,Metro Market,Hypermarket,Chennai,Tamil Nadu,Rural,Nitesh Raghavan,2008,94193,Active
+SYSST0000076,STR664315,Big Market,Convenience Store,Pune,Maharashtra,High Street,Madhavi Lanka,2007,6353,Active
+SYSST0000077,STR190872,Big Store,Supermarket,Mumbai,Maharashtra,High Street,Bhavika Sampath,2015,30418,Active
+SYSST0000078,STR290672,Happy Bazaar,Supermarket,Chennai,Tamil Nadu,Residential,Mohammed Gupta,2022,27163,Active
+SYSST0000079,STR682789,Prime Mart,Hypermarket,New Delhi,Delhi,High Street,Teerth Bhardwaj,2024,86635,Active
+SYSST0000080,STR599219,Reliance Market,Convenience Store,Noida,Uttar Pradesh,High Street,Dipta Bhandari,2012,2262,Active
+SYSST0000081,STR421080,Happy Market,Supermarket,Noida,Uttar Pradesh,High Street,Vansha Thakkar,2023,17632,Active
+SYSST0000082,STR468900,Quick Retail,Supermarket,Noida,Uttar Pradesh,Residential,Dakshesh Trivedi,2010,13976,Active
+SYSST0000083,STR661894,Value Store,Supermarket,Coimbatore,Tamil Nadu,Commercial,Quincy Biswas,2018,19933,Inactive
+SYSST0000084,STR650121,Urban Bazaar,Supermarket,Ahmedabad,Gujarat,High Street,Wahab Raval,2009,15727,Active
+SYSST0000085,STR660081,Daily Mart,Supermarket,New Delhi,Delhi,High Street,Yatin Baral,2024,22137,Active
+SYSST0000086,STR112861,Reliance Market,Supermarket,Ahmedabad,Gujarat,Rural,Oni Virk,2008,15020,Active
+SYSST0000087,STR600935,Smart Market,Supermarket,New Delhi,Delhi,Mall,Advika Jayaraman,2025,19756,Active
+SYSST0000088,STR418594,Family Mart,Supermarket,New Delhi,Delhi,High Street,William Lanka,2025,31637,Active
+SYSST0000089,STR913373,Big Market,Supermarket,Chennai,Tamil Nadu,High Street,Karan Mital,2019,32051,Active
+SYSST0000090,STR876039,Prime Superstore,Hypermarket,New Delhi,Delhi,Mall,Diya Bora,2005,65320,Active
+SYSST0000091,STR264136,Big Superstore,Supermarket,New Delhi,Delhi,Mall,Tara Chaudhry,2009,27543,Active
+SYSST0000092,STR837135,Smart Superstore,Supermarket,Lucknow,Uttar Pradesh,Rural,Tanay Toor,2020,16334,Active
+SYSST0000093,STR942956,Nova Mart,Convenience Store,Nagpur,Maharashtra,High Street,Kevin Palla,2008,6805,Active
+SYSST0000094,STR174878,City Outlet,Supermarket,New Delhi,Delhi,High Street,Yash Pingle,2014,27457,Active
+SYSST0000095,STR833723,Quick Outlet,Supermarket,Bengaluru,Karnataka,Mall,Nakul Sarma,2001,32344,Active
+SYSST0000096,STR870214,Quick Mart,Hypermarket,Bengaluru,Karnataka,High Street,Abhiram Mistry,2000,97696,Inactive
+SYSST0000097,STR804938,Daily Bazaar,Convenience Store,Ghaziabad,Uttar Pradesh,Commercial,Krish Lalla,2014,5354,Active
+SYSST0000098,STR290305,Nova Superstore,Convenience Store,Surat,Gujarat,Residential,Hredhaan Dugal,2013,2247,Active
+SYSST0000099,STR802685,Value Retail,Supermarket,New Delhi,Delhi,Mall,Baghyawati Kade,2012,34235,Active
+SYSST0000100,STR676818,Smart Retail,Supermarket,New Delhi,Delhi,Rural,Samar Lalla,2012,21798,Active
+SYSST0000101,STR964998,Big Market,Supermarket,Surat,Gujarat,Commercial,Zayan Behl,2024,20494,Active
+SYSST0000102,STR563513,Prime Retail,Supermarket,Pune,Maharashtra,High Street,Pallavi Malhotra,2022,16719,Active
+SYSST0000103,STR130271,Family Superstore,Supermarket,Surat,Gujarat,Mall,Aarush Nath,2013,21024,Active
+SYSST0000104,STR982277,Big Mart,Convenience Store,Nagpur,Maharashtra,Residential,Adweta Edwin,2022,2761,Active
+SYSST0000105,STR839677,Reliance Market,Hypermarket,Mumbai,Maharashtra,Mall,Prisha Andra,2006,96127,Active
+SYSST0000106,STR632929,Metro Bazaar,Hypermarket,Pune,Maharashtra,High Street,Faqid Dixit,2025,58596,Active
+SYSST0000107,STR960408,City Bazaar,Supermarket,New Delhi,Delhi,Residential,Kala Divan,2014,34044,Active
+SYSST0000108,STR461888,Elite Market,Convenience Store,Bengaluru,Karnataka,Rural,Joshua Barman,2007,3045,Active
+SYSST0000109,STR344907,Nova Mart,Supermarket,Lucknow,Uttar Pradesh,Residential,Janya Baral,2025,19749,Active
+SYSST0000110,STR795928,Metro Market,Convenience Store,Ghaziabad,Uttar Pradesh,Commercial,Shivansh Krish,2018,2534,Active
+SYSST0000111,STR205239,Big Mart,Convenience Store,Lucknow,Uttar Pradesh,Mall,Irya Ray,2004,5243,Active
+SYSST0000112,STR786587,Smart Market,Convenience Store,Surat,Gujarat,Commercial,Warjas Gaba,2022,3671,Active
+SYSST0000113,STR184216,Elite Retail,Convenience Store,Lucknow,Uttar Pradesh,Residential,Nitara Bakshi,2017,7721,Active
+SYSST0000114,STR171744,City Store,Supermarket,Mumbai,Maharashtra,Rural,Gaurangi Sabharwal,2024,32220,Active
+SYSST0000115,STR205389,City Mart,Hypermarket,Chennai,Tamil Nadu,Mall,Amara Dutta,2011,63677,Active
+SYSST0000116,STR356059,Value Store,Hypermarket,Chennai,Tamil Nadu,Residential,Lavanya Barad,2019,99943,Active
+SYSST0000117,STR621841,Metro Store,Convenience Store,Nagpur,Maharashtra,Residential,Tristan Iyengar,2021,3580,Active
+SYSST0000118,STR943718,City Superstore,Supermarket,Chennai,Tamil Nadu,High Street,Inaya Mody,2011,20420,Inactive
+SYSST0000119,STR413685,Nova Superstore,Supermarket,Ahmedabad,Gujarat,High Street,Udant Bajwa,2012,16949,Active
+SYSST0000120,STR211834,Happy Outlet,Supermarket,Mumbai,Maharashtra,Mall,Mohini Narasimhan,2021,27674,Active
+SYSST0000121,STR108491,Daily Outlet,Convenience Store,Ahmedabad,Gujarat,Residential,Ekaraj Mallick,2007,3844,Active
+SYSST0000122,STR469435,Prime Outlet,Supermarket,Mumbai,Maharashtra,High Street,Yashodhara Ratta,2020,22481,Active
+SYSST0000123,STR423939,Daily Outlet,Supermarket,Ghaziabad,Uttar Pradesh,Mall,Ayaan D’Alia,2009,14153,Active
+SYSST0000124,STR535686,Metro Bazaar,Supermarket,Mumbai,Maharashtra,High Street,Pranav Lanka,2008,29988,Active
+SYSST0000125,STR369452,Reliance Bazaar,Supermarket,Nagpur,Maharashtra,Rural,Ikbal Saraf,2014,17549,Active
+SYSST0000126,STR247594,Family Bazaar,Supermarket,Pune,Maharashtra,Rural,Dipta Sarin,2025,23049,Active
+SYSST0000127,STR194689,Fresh Retail,Supermarket,Ghaziabad,Uttar Pradesh,High Street,Lekha Gupta,2023,19451,Active
+SYSST0000128,STR712955,Happy Mart,Supermarket,Bengaluru,Karnataka,Mall,Chaitanya Sarin,2017,33449,Active
+SYSST0000129,STR739717,Smart Superstore,Convenience Store,Mumbai,Maharashtra,High Street,Zinal Yohannan,2013,7243,Active
+SYSST0000130,STR147549,City Market,Supermarket,Mangalore,Karnataka,Rural,Januja Sankar,2004,15846,Active
+SYSST0000131,STR489033,Nova Outlet,Convenience Store,Noida,Uttar Pradesh,Residential,Ganga Murthy,2020,2765,Active
+SYSST0000132,STR613117,Quick Mart,Supermarket,Ahmedabad,Gujarat,High Street,Charita Tripathi,2007,15559,Active
+SYSST0000133,STR204180,Happy Outlet,Convenience Store,Surat,Gujarat,Commercial,Nilima Narain,2012,6782,Active
+SYSST0000134,STR228093,Big Mart,Convenience Store,Mangalore,Karnataka,Residential,Chakrika Datta,2000,6756,Active
+SYSST0000135,STR449709,Metro Bazaar,Supermarket,Mumbai,Maharashtra,Commercial,Osha Raghavan,2017,20248,Active
+SYSST0000136,STR326441,Family Retail,Convenience Store,Ghaziabad,Uttar Pradesh,Rural,Charvi Ravi,2000,7960,Active
+SYSST0000137,STR251716,Quick Bazaar,Supermarket,Surat,Gujarat,Rural,Daksha Mangat,2004,22830,Active
+SYSST0000138,STR928358,Green Mart,Supermarket,Ghaziabad,Uttar Pradesh,Mall,Qushi Nagy,2013,12858,Active
+SYSST0000139,STR881886,Big Bazaar,Supermarket,New Delhi,Delhi,High Street,Riya Sathe,2007,21573,Active
+SYSST0000140,STR145471,City Market,Supermarket,Pune,Maharashtra,Mall,Yasti Solanki,2015,12510,Active
+SYSST0000141,STR546980,Reliance Superstore,Convenience Store,Noida,Uttar Pradesh,Residential,Frado Mander,2010,2102,Active
+SYSST0000142,STR168872,Green Market,Convenience Store,New Delhi,Delhi,Mall,Girik Keer,2016,5846,Active
+SYSST0000143,STR203996,Urban Bazaar,Supermarket,Ghaziabad,Uttar Pradesh,Commercial,Umang Issac,2006,24598,Active
+SYSST0000144,STR339592,Big Market,Supermarket,Bengaluru,Karnataka,High Street,Aryan Batra,2010,21115,Active
+SYSST0000145,STR492483,Reliance Mart,Supermarket,Coimbatore,Tamil Nadu,High Street,Vaishnavi Bora,2003,13398,Active
+SYSST0000146,STR490748,Daily Outlet,Convenience Store,Ghaziabad,Uttar Pradesh,High Street,Oeshi Hayer,2003,6101,Active
+SYSST0000147,STR797660,Nova Bazaar,Convenience Store,Mangalore,Karnataka,Rural,Warda Ratta,2019,1921,Active
+SYSST0000148,STR208633,Prime Store,Supermarket,Ahmedabad,Gujarat,Residential,Manbir Ahluwalia,2011,15674,Active
+SYSST0000149,STR485415,Quick Outlet,Hypermarket,New Delhi,Delhi,Commercial,Pavani Kanda,2024,88122,Active
+SYSST0000150,STR743378,Fresh Outlet,Convenience Store,Noida,Uttar Pradesh,High Street,Zarna Shetty,2005,7180,Active
+SYSST0000151,STR899444,Green Retail,Hypermarket,Mumbai,Maharashtra,High Street,Zaid Dara,2012,69388,Active
+SYSST0000152,STR876962,Fresh Mart,Convenience Store,Ahmedabad,Gujarat,High Street,Kiaan Shetty,2014,3262,Active
+SYSST0000153,STR488028,Green Bazaar,Convenience Store,Bengaluru,Karnataka,Mall,Saanvi Thaman,2001,6384,Active
+SYSST0000154,STR891083,Smart Retail,Supermarket,Ahmedabad,Gujarat,High Street,Sanaya Dutt,2014,18947,Active
+SYSST0000155,STR326040,Urban Retail,Supermarket,Pune,Maharashtra,Commercial,Shivani Lad,2018,16640,Active
+SYSST0000156,STR799539,Family Market,Convenience Store,Mumbai,Maharashtra,Mall,Aradhana Verma,2009,1948,Active
+SYSST0000157,STR904624,Quick Retail,Supermarket,New Delhi,Delhi,High Street,William Maharaj,2013,18253,Active
+SYSST0000158,STR498676,Family Outlet,Supermarket,Chennai,Tamil Nadu,Mall,Faras Mangal,2023,29605,Active
+SYSST0000159,STR119651,Smart Bazaar,Supermarket,Chennai,Tamil Nadu,High Street,Anita Nayak,2022,32066,Active
+SYSST0000160,STR403578,Fresh Retail,Hypermarket,New Delhi,Delhi,Commercial,Faris Devi,2011,90152,Active
+SYSST0000161,STR985506,Nova Outlet,Supermarket,New Delhi,Delhi,High Street,Vihaan Rajagopal,2009,20577,Active
+SYSST0000162,STR332335,Value Mart,Supermarket,Bengaluru,Karnataka,High Street,Tanish Bhatt,2006,21736,Active
+SYSST0000163,STR466346,Metro Store,Hypermarket,Bengaluru,Karnataka,Mall,Nikita Narayanan,2019,76775,Active
+SYSST0000164,STR896028,Value Bazaar,Supermarket,Noida,Uttar Pradesh,Residential,Ojasvi Bhatia,2024,19601,Active
+SYSST0000165,STR814220,Green Bazaar,Convenience Store,Nagpur,Maharashtra,High Street,Osha Ramachandran,2002,4089,Active
+SYSST0000166,STR762055,Quick Outlet,Hypermarket,Mumbai,Maharashtra,Mall,Lajita Sood,2014,93248,Active
+SYSST0000167,STR159653,City Mart,Supermarket,Bengaluru,Karnataka,High Street,Indira Misra,2016,20958,Active
+SYSST0000168,STR708519,Daily Market,Convenience Store,Chennai,Tamil Nadu,High Street,Oni Yohannan,2010,6183,Active
+SYSST0000169,STR625721,Daily Market,Hypermarket,Mumbai,Maharashtra,Rural,Vinaya Kanda,2002,82507,Active
+SYSST0000170,STR280941,Big Market,Supermarket,New Delhi,Delhi,High Street,Rajata Sunder,2009,23201,Active
+SYSST0000171,STR912085,Daily Bazaar,Supermarket,Bengaluru,Karnataka,Mall,Lopa Nayar,2003,28965,Active
+SYSST0000172,STR505341,Metro Retail,Hypermarket,Mumbai,Maharashtra,Residential,Noah Sibal,2009,69268,Active
+SYSST0000173,STR832409,Metro Outlet,Convenience Store,Noida,Uttar Pradesh,High Street,Avi Ramesh,2012,2194,Active
+SYSST0000174,STR444432,Smart Superstore,Supermarket,Ghaziabad,Uttar Pradesh,High Street,Fiyaz Sangha,2011,20331,Active
+SYSST0000175,STR324597,Reliance Store,Hypermarket,Bengaluru,Karnataka,Mall,Triya Gopal,2009,69015,Active
+SYSST0000176,STR206053,Daily Superstore,Supermarket,Chennai,Tamil Nadu,High Street,Abha Raghavan,2004,22294,Active
+SYSST0000177,STR971728,Value Superstore,Supermarket,Noida,Uttar Pradesh,High Street,Siddharth Sha,2023,18731,Active
+SYSST0000178,STR565776,Big Store,Supermarket,Ahmedabad,Gujarat,Rural,Geetika Raghavan,2025,17070,Active
+SYSST0000179,STR975679,Big Market,Supermarket,Mumbai,Maharashtra,High Street,Oviya Krishnan,2013,30513,Active
+SYSST0000180,STR956572,Metro Bazaar,Supermarket,Mumbai,Maharashtra,Residential,Upma Bahl,2017,33747,Active
+SYSST0000181,STR845957,Urban Retail,Supermarket,Lucknow,Uttar Pradesh,Commercial,Inaya Kapur,2016,14626,Active
+SYSST0000182,STR558723,Family Bazaar,Supermarket,New Delhi,Delhi,Residential,Banjeet Balasubramanian,2013,29455,Active
+SYSST0000183,STR626392,Elite Mart,Supermarket,Bengaluru,Karnataka,High Street,Ryan Bahri,2003,18923,Active
+SYSST0000184,STR781533,Metro Store,Hypermarket,Bengaluru,Karnataka,High Street,William Date,2004,90962,Active
+SYSST0000185,STR591897,Fresh Mart,Hypermarket,Chennai,Tamil Nadu,Commercial,Ishwar Kamdar,2017,74133,Active
+SYSST0000186,STR738457,Urban Bazaar,Supermarket,Chennai,Tamil Nadu,Mall,Aahana Pillay,2007,27868,Active
+SYSST0000187,STR932463,Smart Mart,Convenience Store,Ahmedabad,Gujarat,Commercial,Ishwar Gade,2000,5594,Active
+SYSST0000188,STR702980,Metro Retail,Supermarket,Mumbai,Maharashtra,Mall,Hritik Bal,2013,29561,Active
+SYSST0000189,STR800674,Happy Mart,Convenience Store,New Delhi,Delhi,High Street,Keya Ranganathan,2016,5957,Active
+SYSST0000190,STR509420,Daily Superstore,Supermarket,Lucknow,Uttar Pradesh,Commercial,Faqid Kibe,2000,18116,Active
+SYSST0000191,STR170841,Urban Bazaar,Supermarket,Bengaluru,Karnataka,Mall,Charvi Dara,2011,28895,Active
+SYSST0000192,STR953025,Big Superstore,Supermarket,Noida,Uttar Pradesh,Residential,Idika Walia,2002,14986,Active
+SYSST0000193,STR579911,Prime Mart,Supermarket,New Delhi,Delhi,High Street,Kamala Biswas,2009,19373,Active
+SYSST0000194,STR955015,Quick Mart,Supermarket,Chennai,Tamil Nadu,Mall,Advik Salvi,2024,24262,Active
+SYSST0000195,STR787584,Urban Bazaar,Supermarket,Bengaluru,Karnataka,Commercial,Hitesh Sant,2012,31107,Active
+SYSST0000196,STR295892,Reliance Retail,Convenience Store,Chennai,Tamil Nadu,Mall,Tripti Dua,2002,5753,Active
+SYSST0000197,STR182760,Value Outlet,Supermarket,Bengaluru,Karnataka,Mall,Patrick Vig,2021,21361,Active
+SYSST0000198,STR567576,Nova Store,Supermarket,Ahmedabad,Gujarat,High Street,Veda Shroff,2023,17759,Active
+SYSST0000199,STR469685,Nova Retail,Supermarket,Ahmedabad,Gujarat,Rural,Amrita Naidu,2002,24967,Active
+SYSST0000200,STR525942,Value Mart,Hypermarket,Bengaluru,Karnataka,High Street,Gabriel Mallick,2014,99817,Active
+SYSST0000201,STR170499,Happy Retail,Supermarket,Mumbai,Maharashtra,High Street,Yagnesh Shetty,2021,19061,Active
+SYSST0000202,STR488984,Smart Outlet,Hypermarket,Bengaluru,Karnataka,High Street,Gayathri Balakrishnan,2020,84048,Active
+SYSST0000203,STR218959,Value Market,Supermarket,New Delhi,Delhi,Mall,Ekta Gopal,2008,21858,Active
+SYSST0000204,STR324993,City Superstore,Convenience Store,Surat,Gujarat,Commercial,Simon Pant,2004,5523,Active
+SYSST0000205,STR574001,Big Mart,Convenience Store,Mumbai,Maharashtra,High Street,Harini Mammen,2022,4118,Active
+SYSST0000206,STR668507,City Bazaar,Hypermarket,Mumbai,Maharashtra,Commercial,Advaith Varughese,2016,71409,Active
+SYSST0000207,STR310743,Family Bazaar,Supermarket,Ghaziabad,Uttar Pradesh,Commercial,Frederick Khurana,2011,17912,Active
+SYSST0000208,STR678443,Smart Mart,Supermarket,New Delhi,Delhi,High Street,Vrinda Khosla,2024,33684,Active
+SYSST0000209,STR702826,Green Superstore,Hypermarket,New Delhi,Delhi,High Street,Vritti Sem,2011,90528,Active
+SYSST0000210,STR969325,Value Bazaar,Convenience Store,Pune,Maharashtra,Commercial,Girik Menon,2001,5044,Active
+SYSST0000211,STR643269,Value Store,Supermarket,Mumbai,Maharashtra,High Street,Nidhi Kohli,2016,25388,Active
+SYSST0000212,STR987025,Prime Superstore,Convenience Store,New Delhi,Delhi,Mall,Jyoti Solanki,2009,3748,Active
+SYSST0000213,STR197966,Value Outlet,Convenience Store,Chennai,Tamil Nadu,Mall,Pavani Narayanan,2019,2763,Active
+SYSST0000214,STR734534,Daily Bazaar,Convenience Store,Bengaluru,Karnataka,Mall,Sudiksha Madan,2020,2165,Active
+SYSST0000215,STR377511,Nova Outlet,Supermarket,Noida,Uttar Pradesh,Residential,Zayan Kashyap,2017,20159,Active
+SYSST0000216,STR416768,Elite Retail,Supermarket,Chennai,Tamil Nadu,Mall,Reyansh Mutti,2013,19963,Active
+SYSST0000217,STR313933,Metro Retail,Convenience Store,Bengaluru,Karnataka,Commercial,Qasim Handa,2011,4115,Inactive
+SYSST0000218,STR237118,Urban Retail,Supermarket,Pune,Maharashtra,High Street,Veda Malhotra,2007,14007,Active
+SYSST0000219,STR153063,Elite Bazaar,Supermarket,Mumbai,Maharashtra,Rural,Harish Hari,2005,26135,Active
+SYSST0000220,STR705748,Prime Bazaar,Supermarket,Noida,Uttar Pradesh,High Street,Utkarsh Patel,2009,20433,Active
+SYSST0000221,STR194423,Big Store,Supermarket,Mangalore,Karnataka,Mall,Chasmum Atwal,2009,17781,Active
+SYSST0000222,STR983791,Reliance Retail,Supermarket,Noida,Uttar Pradesh,High Street,Anusha Bath,2008,13761,Active
+SYSST0000223,STR900961,Daily Market,Hypermarket,Bengaluru,Karnataka,Mall,Brinda Date,2017,96819,Active
+SYSST0000224,STR505116,Quick Bazaar,Convenience Store,Chennai,Tamil Nadu,High Street,Harshil Arora,2004,7073,Inactive
+SYSST0000225,STR513037,Green Outlet,Convenience Store,Bengaluru,Karnataka,Mall,Upasna Srinivas,2019,7684,Active
+SYSST0000226,STR624369,Daily Store,Supermarket,New Delhi,Delhi,High Street,Harini Gour,2004,33523,Active
+SYSST0000227,STR640546,Green Store,Supermarket,New Delhi,Delhi,High Street,Zayyan Sridhar,2016,27805,Active
+SYSST0000228,STR658198,City Market,Convenience Store,Chennai,Tamil Nadu,High Street,Dhruv Rattan,2003,4517,Inactive
+SYSST0000229,STR712056,Fresh Outlet,Supermarket,Mumbai,Maharashtra,Commercial,Ethan Bera,2018,25456,Active
+SYSST0000230,STR649697,Elite Store,Convenience Store,Ahmedabad,Gujarat,Mall,Manthan Modi,2022,3484,Active
+SYSST0000231,STR119857,Nova Store,Supermarket,Bengaluru,Karnataka,High Street,Yuvraj Dani,2024,24681,Active
+SYSST0000232,STR594514,Daily Superstore,Supermarket,Lucknow,Uttar Pradesh,Residential,Upkaar Virk,2021,15397,Active
+SYSST0000233,STR495129,Value Market,Convenience Store,Bengaluru,Karnataka,High Street,Shravya Savant,2021,4304,Active
+SYSST0000234,STR855944,Quick Outlet,Supermarket,Noida,Uttar Pradesh,High Street,Pushti Mody,2009,16038,Active
+SYSST0000235,STR412071,Prime Superstore,Convenience Store,Pune,Maharashtra,High Street,Hardik Johal,2017,4097,Active
+SYSST0000236,STR934042,City Mart,Supermarket,Pune,Maharashtra,High Street,Aishani Bumb,2012,20899,Active
+SYSST0000237,STR910616,City Mart,Supermarket,Ghaziabad,Uttar Pradesh,Mall,Wriddhish Ghose,2014,23700,Active
+SYSST0000238,STR883641,Prime Bazaar,Supermarket,Chennai,Tamil Nadu,Mall,Naksh Agate,2019,26900,Active
+SYSST0000239,STR350905,Family Superstore,Hypermarket,Mumbai,Maharashtra,High Street,Shravya Singhal,2022,66566,Active
+SYSST0000240,STR814281,Fresh Outlet,Convenience Store,Pune,Maharashtra,High Street,Bachittar Kata,2015,2793,Active
+SYSST0000241,STR309144,City Retail,Supermarket,Pune,Maharashtra,Rural,Barkha Setty,2002,12969,Active
+SYSST0000242,STR343500,Daily Store,Supermarket,Chennai,Tamil Nadu,Residential,Vivaan Lalla,2001,23760,Inactive
+SYSST0000243,STR516278,Value Superstore,Convenience Store,Ghaziabad,Uttar Pradesh,Residential,Pavani Contractor,2000,3871,Active
+SYSST0000244,STR732063,Green Retail,Supermarket,New Delhi,Delhi,Residential,Manthan Lata,2004,34184,Active
+SYSST0000245,STR590755,Urban Retail,Hypermarket,Mumbai,Maharashtra,High Street,Ekbal Bhasin,2022,90075,Active
+SYSST0000246,STR872399,City Outlet,Supermarket,Bengaluru,Karnataka,Mall,Damyanti Mani,2020,24329,Active
+SYSST0000247,STR967161,Green Mart,Supermarket,Bengaluru,Karnataka,Mall,Jeet Sidhu,2004,21125,Active
+SYSST0000248,STR360096,Elite Store,Supermarket,New Delhi,Delhi,Rural,Neha Magar,2009,26748,Active
+SYSST0000249,STR700705,Happy Superstore,Hypermarket,New Delhi,Delhi,High Street,Raksha Buch,2005,67747,Active
+SYSST0000250,STR626930,City Superstore,Supermarket,Nagpur,Maharashtra,Commercial,Rachana Naidu,2007,16833,Active

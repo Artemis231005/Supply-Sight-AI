@@ -1,0 +1,253 @@
+SupplierSysID,SupplierID,SupplierName,Category,Phone,Email,City,State,SupplierSize,SupplierTier,Rating,ActiveStatus
+SYSSUP0000001,SUP770487,Choudhury Bakshi Traders,Electronics,4332181960,chandertejas@tiwari.com,New Delhi,Delhi,Small,Tier 2,3.5,Active
+SYSSUP0000002,SUP770487,Choudhury Bakshi Traders,Groceries,4332181960,chandertejas@tiwari.com,New Delhi,Delhi,Small,Tier 2,3.5,Active
+SYSSUP0000003,SUP770487,Choudhury Bakshi Traders,Beverages,4332181960,chandertejas@tiwari.com,New Delhi,Delhi,Small,Tier 2,3.5,Active
+SYSSUP0000004,SUP131244,Issac Saini Traders,Groceries,+917940265423,harsh16@parmer.org,Ghaziabad,Uttar Pradesh,Medium,Tier 1,4.4,Active
+SYSSUP0000005,SUP131244,Issac Saini Traders,Electronics,+917940265423,harsh16@parmer.org,Ghaziabad,Uttar Pradesh,Medium,Tier 1,4.4,Active
+SYSSUP0000006,SUP131244,Issac Saini Traders,Beverages,+917940265423,harsh16@parmer.org,Ghaziabad,Uttar Pradesh,Medium,Tier 1,4.4,Active
+SYSSUP0000007,SUP717889,Lalla Bassi Enterprises,Electronics,7816184959,ekarajbath@kari.com,New Delhi,Delhi,Medium,Tier 2,3.6,Inactive
+SYSSUP0000008,SUP717889,Lalla Bassi Enterprises,Beverages,7816184959,ekarajbath@kari.com,New Delhi,Delhi,Medium,Tier 2,3.6,Inactive
+SYSSUP0000009,SUP498382,Chaudhuri Rai Traders,Electronics,07525534192,nihalshere@madan-kanda.com,Pune,Maharashtra,Medium,Tier 3,3.7,Active
+SYSSUP0000010,SUP498382,Chaudhuri Rai Traders,Groceries,07525534192,nihalshere@madan-kanda.com,Pune,Maharashtra,Medium,Tier 3,3.7,Active
+SYSSUP0000011,SUP969693,Bhalla Karnik Industries,Electronics,+915641395376,qdhar@koshy.net,Coimbatore,Tamil Nadu,Medium,Tier 2,3.5,Active
+SYSSUP0000012,SUP969693,Bhalla Karnik Industries,Beverages,+915641395376,qdhar@koshy.net,Coimbatore,Tamil Nadu,Medium,Tier 2,3.5,Active
+SYSSUP0000013,SUP205907,Yohannan Lall Wholesale,Beverages,9696532871,choudharymichael@dutta.biz,Pune,Maharashtra,Medium,Tier 2,3.9,Active
+SYSSUP0000014,SUP205907,Yohannan Lall Wholesale,Electronics,9696532871,choudharymichael@dutta.biz,Pune,Maharashtra,Medium,Tier 2,3.9,Active
+SYSSUP0000015,SUP738720,Raj Sidhu Industries,Electronics,4801845146,sudikshaaggarwal@lall.net,Ghaziabad,Uttar Pradesh,Small,Tier 3,4.2,Active
+SYSSUP0000016,SUP738720,Raj Sidhu Industries,Groceries,4801845146,sudikshaaggarwal@lall.net,Ghaziabad,Uttar Pradesh,Small,Tier 3,4.2,Active
+SYSSUP0000017,SUP738720,Raj Sidhu Industries,Beverages,4801845146,sudikshaaggarwal@lall.net,Ghaziabad,Uttar Pradesh,Small,Tier 3,4.2,Active
+SYSSUP0000018,SUP340174,Cherian Misra Traders,Electronics,8932528809,vrinda01@mohanty-khatri.com,Pune,Maharashtra,Small,Tier 2,4.6,Active
+SYSSUP0000019,SUP340174,Cherian Misra Traders,Groceries,8932528809,vrinda01@mohanty-khatri.com,Pune,Maharashtra,Small,Tier 2,4.6,Active
+SYSSUP0000020,SUP514850,Khosla Brar Industries,Groceries,+917182278248,ikakar@iyer.com,Bengaluru,Karnataka,Small,Tier 2,4.1,Active
+SYSSUP0000021,SUP514850,Khosla Brar Industries,Beverages,+917182278248,ikakar@iyer.com,Bengaluru,Karnataka,Small,Tier 2,4.1,Active
+SYSSUP0000022,SUP514850,Khosla Brar Industries,Electronics,+917182278248,ikakar@iyer.com,Bengaluru,Karnataka,Small,Tier 2,4.1,Active
+SYSSUP0000023,SUP329974,Sarma Varughese Distributors,Groceries,01331509839,abhimanyubobal@bhargava.com,Coimbatore,Tamil Nadu,Small,Tier 1,4.3,Active
+SYSSUP0000024,SUP329974,Sarma Varughese Distributors,Electronics,01331509839,abhimanyubobal@bhargava.com,Coimbatore,Tamil Nadu,Small,Tier 1,4.3,Active
+SYSSUP0000025,SUP329974,Sarma Varughese Distributors,Beverages,01331509839,abhimanyubobal@bhargava.com,Coimbatore,Tamil Nadu,Small,Tier 1,4.3,Active
+SYSSUP0000026,SUP500156,Narayanan Bobal Supplies,Beverages,3473829973,mray@chatterjee.biz,Mangalore,Karnataka,Large,Tier 2,3.4,Active
+SYSSUP0000027,SUP500156,Narayanan Bobal Supplies,Groceries,3473829973,mray@chatterjee.biz,Mangalore,Karnataka,Large,Tier 2,3.4,Active
+SYSSUP0000028,SUP500156,Narayanan Bobal Supplies,Electronics,3473829973,mray@chatterjee.biz,Mangalore,Karnataka,Large,Tier 2,3.4,Active
+SYSSUP0000029,SUP216970,Pandya Sampath Enterprises,Electronics,07010651333,bdey@mallick.com,Bengaluru,Karnataka,Small,Tier 3,4.0,Active
+SYSSUP0000030,SUP216970,Pandya Sampath Enterprises,Beverages,07010651333,bdey@mallick.com,Bengaluru,Karnataka,Small,Tier 3,4.0,Active
+SYSSUP0000031,SUP216970,Pandya Sampath Enterprises,Groceries,07010651333,bdey@mallick.com,Bengaluru,Karnataka,Small,Tier 3,4.0,Active
+SYSSUP0000032,SUP982554,Borra Savant Industries,Electronics,1080132677,nandinibhargava@raghavan.biz,Chennai,Tamil Nadu,Small,Tier 3,3.3,Active
+SYSSUP0000033,SUP982554,Borra Savant Industries,Groceries,1080132677,nandinibhargava@raghavan.biz,Chennai,Tamil Nadu,Small,Tier 3,3.3,Active
+SYSSUP0000034,SUP982554,Borra Savant Industries,Beverages,1080132677,nandinibhargava@raghavan.biz,Chennai,Tamil Nadu,Small,Tier 3,3.3,Active
+SYSSUP0000035,SUP120422,Lanka Sha Traders,Groceries,06872343098,murthydakshesh@sood.net,Pune,Maharashtra,Small,Tier 2,4.1,Active
+SYSSUP0000036,SUP120422,Lanka Sha Traders,Electronics,06872343098,murthydakshesh@sood.net,Pune,Maharashtra,Small,Tier 2,4.1,Active
+SYSSUP0000037,SUP120422,Lanka Sha Traders,Beverages,06872343098,murthydakshesh@sood.net,Pune,Maharashtra,Small,Tier 2,4.1,Active
+SYSSUP0000038,SUP234628,Dugar Bhandari Industries,Beverages,1219136193,bumboni@virk.com,Bengaluru,Karnataka,Small,Tier 3,3.1,Active
+SYSSUP0000039,SUP234628,Dugar Bhandari Industries,Electronics,1219136193,bumboni@virk.com,Bengaluru,Karnataka,Small,Tier 3,3.1,Active
+SYSSUP0000040,SUP234628,Dugar Bhandari Industries,Groceries,1219136193,bumboni@virk.com,Bengaluru,Karnataka,Small,Tier 3,3.1,Active
+SYSSUP0000041,SUP518373,Murthy Khare Industries,Electronics,06247510799,borahtanay@lanka.com,Surat,Gujarat,Small,Tier 3,2.5,Active
+SYSSUP0000042,SUP518373,Murthy Khare Industries,Beverages,06247510799,borahtanay@lanka.com,Surat,Gujarat,Small,Tier 3,2.5,Active
+SYSSUP0000043,SUP717024,Konda Pingle Distributors,Electronics,02784980841,aishanidalia@dugal.com,New Delhi,Delhi,Medium,Tier 1,4.3,Active
+SYSSUP0000044,SUP717024,Konda Pingle Distributors,Beverages,02784980841,aishanidalia@dugal.com,New Delhi,Delhi,Medium,Tier 1,4.3,Active
+SYSSUP0000045,SUP392004,Kade Oza Industries,Groceries,+914874016400,kalpit42@sathe.com,Bengaluru,Karnataka,Medium,Tier 2,4.5,Active
+SYSSUP0000046,SUP946721,Borra Dixit Wholesale,Electronics,0598262045,parmarshivansh@krish.net,Noida,Uttar Pradesh,Small,Tier 3,3.1,Active
+SYSSUP0000047,SUP946721,Borra Dixit Wholesale,Beverages,0598262045,parmarshivansh@krish.net,Noida,Uttar Pradesh,Small,Tier 3,3.1,Active
+SYSSUP0000048,SUP946721,Borra Dixit Wholesale,Groceries,0598262045,parmarshivansh@krish.net,Noida,Uttar Pradesh,Small,Tier 3,3.1,Active
+SYSSUP0000049,SUP522179,Ray Dubey Industries,Groceries,+912260256342,rajabalvan@kapadia-iyengar.info,Mumbai,Maharashtra,Small,Tier 2,4.0,Active
+SYSSUP0000050,SUP522179,Ray Dubey Industries,Electronics,+912260256342,rajabalvan@kapadia-iyengar.info,Mumbai,Maharashtra,Small,Tier 2,4.0,Active
+SYSSUP0000051,SUP179046,Palla Mody Wholesale,Electronics,+913036541458,vyadav@dalia.com,Chennai,Tamil Nadu,Small,Tier 3,3.9,Inactive
+SYSSUP0000052,SUP526156,Lanka Barad Wholesale,Groceries,+919655698169,aachalbasu@sarin.net,Bengaluru,Karnataka,Large,Tier 2,3.6,Active
+SYSSUP0000053,SUP526156,Lanka Barad Wholesale,Beverages,+919655698169,aachalbasu@sarin.net,Bengaluru,Karnataka,Large,Tier 2,3.6,Active
+SYSSUP0000054,SUP399105,Hegde Patla Wholesale,Electronics,01595148465,jmerchant@handa.biz,Surat,Gujarat,Small,Tier 2,4.7,Active
+SYSSUP0000055,SUP399105,Hegde Patla Wholesale,Groceries,01595148465,jmerchant@handa.biz,Surat,Gujarat,Small,Tier 2,4.7,Active
+SYSSUP0000056,SUP399105,Hegde Patla Wholesale,Beverages,01595148465,jmerchant@handa.biz,Surat,Gujarat,Small,Tier 2,4.7,Active
+SYSSUP0000057,SUP152578,Ghosh Mitra Supplies,Beverages,08044369957,rsathe@vaidya.com,Bengaluru,Karnataka,Small,Tier 3,3.9,Active
+SYSSUP0000058,SUP346629,Chad Mander Wholesale,Beverages,9513433200,vaishnavibora@sachdeva-hayer.biz,New Delhi,Delhi,Medium,Tier 1,4.3,Active
+SYSSUP0000059,SUP346629,Chad Mander Wholesale,Groceries,9513433200,vaishnavibora@sachdeva-hayer.biz,New Delhi,Delhi,Medium,Tier 1,4.3,Active
+SYSSUP0000060,SUP346629,Chad Mander Wholesale,Electronics,9513433200,vaishnavibora@sachdeva-hayer.biz,New Delhi,Delhi,Medium,Tier 1,4.3,Active
+SYSSUP0000061,SUP314181,Talwar Ratta Industries,Electronics,+912016328708,jairajshan@shetty.net,Surat,Gujarat,Small,Tier 3,3.6,Active
+SYSSUP0000062,SUP314181,Talwar Ratta Industries,Beverages,+912016328708,jairajshan@shetty.net,Surat,Gujarat,Small,Tier 3,3.6,Active
+SYSSUP0000063,SUP580547,Nadig Savant Supplies,Electronics,8687277434,rkhare@brahmbhatt-mangal.com,Chennai,Tamil Nadu,Small,Tier 2,3.7,Inactive
+SYSSUP0000064,SUP487477,Magar Nayak Enterprises,Beverages,08122362316,inarayanan@sagar-bhatia.com,Kanpur,Uttar Pradesh,Medium,Tier 2,4.2,Inactive
+SYSSUP0000065,SUP487477,Magar Nayak Enterprises,Electronics,08122362316,inarayanan@sagar-bhatia.com,Kanpur,Uttar Pradesh,Medium,Tier 2,4.2,Inactive
+SYSSUP0000066,SUP487477,Magar Nayak Enterprises,Groceries,08122362316,inarayanan@sagar-bhatia.com,Kanpur,Uttar Pradesh,Medium,Tier 2,4.2,Inactive
+SYSSUP0000067,SUP795613,Salvi Ramachandran Traders,Electronics,0967054668,vinayakanda@sarin-sunder.com,Lucknow,Uttar Pradesh,Small,Tier 2,4.1,Active
+SYSSUP0000068,SUP795613,Salvi Ramachandran Traders,Groceries,0967054668,vinayakanda@sarin-sunder.com,Lucknow,Uttar Pradesh,Small,Tier 2,4.1,Active
+SYSSUP0000069,SUP795613,Salvi Ramachandran Traders,Beverages,0967054668,vinayakanda@sarin-sunder.com,Lucknow,Uttar Pradesh,Small,Tier 2,4.1,Active
+SYSSUP0000070,SUP820892,Ramachandran Nayar Industries,Groceries,6272980699,chackopriya@shenoy.com,Nagpur,Maharashtra,Small,Tier 3,3.9,Active
+SYSSUP0000071,SUP820892,Ramachandran Nayar Industries,Electronics,6272980699,chackopriya@shenoy.com,Nagpur,Maharashtra,Small,Tier 3,3.9,Active
+SYSSUP0000072,SUP103717,Lad Raghavan Enterprises,Electronics,03755646417,zachariacharles@kapur-biswas.com,Lucknow,Uttar Pradesh,Small,Tier 3,3.6,Active
+SYSSUP0000073,SUP824586,Balasubramanian Kota Distributors,Groceries,+910923271937,jyoti29@contractor.com,Chennai,Tamil Nadu,Medium,Tier 2,3.6,Active
+SYSSUP0000074,SUP824586,Balasubramanian Kota Distributors,Electronics,+910923271937,jyoti29@contractor.com,Chennai,Tamil Nadu,Medium,Tier 2,3.6,Active
+SYSSUP0000075,SUP475190,Bal Muni Distributors,Beverages,6631931491,palanpriya@prabhakar.com,Ahmedabad,Gujarat,Medium,Tier 2,4.1,Active
+SYSSUP0000076,SUP475190,Bal Muni Distributors,Electronics,6631931491,palanpriya@prabhakar.com,Ahmedabad,Gujarat,Medium,Tier 2,4.1,Active
+SYSSUP0000077,SUP475190,Bal Muni Distributors,Groceries,6631931491,palanpriya@prabhakar.com,Ahmedabad,Gujarat,Medium,Tier 2,4.1,Active
+SYSSUP0000078,SUP270395,Arora Salvi Distributors,Beverages,01657262849,bshroff@loyal.com,Bengaluru,Karnataka,Small,Tier 3,3.8,Active
+SYSSUP0000079,SUP270395,Arora Salvi Distributors,Electronics,01657262849,bshroff@loyal.com,Bengaluru,Karnataka,Small,Tier 3,3.8,Active
+SYSSUP0000080,SUP270395,Arora Salvi Distributors,Groceries,01657262849,bshroff@loyal.com,Bengaluru,Karnataka,Small,Tier 3,3.8,Active
+SYSSUP0000081,SUP266931,Mallick Seshadri Industries,Groceries,+917996507527,ishakuruvilla@mammen-majumdar.net,New Delhi,Delhi,Large,Tier 2,3.7,Active
+SYSSUP0000082,SUP266931,Mallick Seshadri Industries,Beverages,+917996507527,ishakuruvilla@mammen-majumdar.net,New Delhi,Delhi,Large,Tier 2,3.7,Active
+SYSSUP0000083,SUP960394,Anne Varughese Distributors,Groceries,+911367837770,menontimothy@kohli-mohan.org,Noida,Uttar Pradesh,Medium,Tier 2,3.8,Active
+SYSSUP0000084,SUP960394,Anne Varughese Distributors,Beverages,+911367837770,menontimothy@kohli-mohan.org,Noida,Uttar Pradesh,Medium,Tier 2,3.8,Active
+SYSSUP0000085,SUP812526,Pillay Solanki Supplies,Electronics,8568557444,jaihans@dar-wason.com,Mumbai,Maharashtra,Small,Tier 3,2.6,Inactive
+SYSSUP0000086,SUP812526,Pillay Solanki Supplies,Beverages,8568557444,jaihans@dar-wason.com,Mumbai,Maharashtra,Small,Tier 3,2.6,Inactive
+SYSSUP0000087,SUP725550,Handa Kalita Wholesale,Electronics,7498941343,praneel40@walla.com,Nagpur,Maharashtra,Medium,Tier 2,4.7,Active
+SYSSUP0000088,SUP725550,Handa Kalita Wholesale,Groceries,7498941343,praneel40@walla.com,Nagpur,Maharashtra,Medium,Tier 2,4.7,Active
+SYSSUP0000089,SUP725550,Handa Kalita Wholesale,Beverages,7498941343,praneel40@walla.com,Nagpur,Maharashtra,Medium,Tier 2,4.7,Active
+SYSSUP0000090,SUP843215,Bhagat Master Wholesale,Beverages,2710947775,charankrishnan@comar-bhattacharyya.biz,New Delhi,Delhi,Small,Tier 2,4.3,Active
+SYSSUP0000091,SUP843215,Bhagat Master Wholesale,Electronics,2710947775,charankrishnan@comar-bhattacharyya.biz,New Delhi,Delhi,Small,Tier 2,4.3,Active
+SYSSUP0000092,SUP854717,Swamy Borah Enterprises,Groceries,0229413186,lajitaseshadri@mishra-sanghvi.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.3,Active
+SYSSUP0000093,SUP797229,Bhasin Chaudhary Wholesale,Electronics,+913412328120,sseshadri@singhal.com,Ahmedabad,Gujarat,Medium,Tier 2,4.1,Active
+SYSSUP0000094,SUP797229,Bhasin Chaudhary Wholesale,Groceries,+913412328120,sseshadri@singhal.com,Ahmedabad,Gujarat,Medium,Tier 2,4.1,Active
+SYSSUP0000095,SUP923927,Mani Mandal Supplies,Electronics,7134936183,amairadhar@bhasin.com,Coimbatore,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000096,SUP923927,Mani Mandal Supplies,Beverages,7134936183,amairadhar@bhasin.com,Coimbatore,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000097,SUP923927,Mani Mandal Supplies,Groceries,7134936183,amairadhar@bhasin.com,Coimbatore,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000098,SUP640490,Mani Sarna Industries,Electronics,+917464887719,sankaranekantika@krishna.com,Surat,Gujarat,Small,Tier 3,2.7,Active
+SYSSUP0000099,SUP125611,Bail Luthra Traders,Electronics,0278742967,singhalijaya@nath-nagi.com,Kanpur,Uttar Pradesh,Medium,Tier 2,4.0,Active
+SYSSUP0000100,SUP125611,Bail Luthra Traders,Groceries,0278742967,singhalijaya@nath-nagi.com,Kanpur,Uttar Pradesh,Medium,Tier 2,4.0,Active
+SYSSUP0000101,SUP125611,Bail Luthra Traders,Beverages,0278742967,singhalijaya@nath-nagi.com,Kanpur,Uttar Pradesh,Medium,Tier 2,4.0,Active
+SYSSUP0000102,SUP519066,Dyal Narayan Distributors,Electronics,07468071545,ravalyoshita@shere.com,Noida,Uttar Pradesh,Large,Tier 2,4.6,Active
+SYSSUP0000103,SUP943170,Guha Vasa Industries,Beverages,09770348247,bdara@khatri.net,Coimbatore,Tamil Nadu,Small,Tier 2,4.5,Active
+SYSSUP0000104,SUP943170,Guha Vasa Industries,Groceries,09770348247,bdara@khatri.net,Coimbatore,Tamil Nadu,Small,Tier 2,4.5,Active
+SYSSUP0000105,SUP891937,Atwal Reddy Wholesale,Groceries,+913171274846,psodhi@dhillon-rajagopal.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.6,Active
+SYSSUP0000106,SUP891937,Atwal Reddy Wholesale,Beverages,+913171274846,psodhi@dhillon-rajagopal.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.6,Active
+SYSSUP0000107,SUP888295,Trivedi Deshpande Distributors,Beverages,+914658404499,cdixit@sule.net,Surat,Gujarat,Medium,Tier 2,4.2,Active
+SYSSUP0000108,SUP399607,Purohit Shah Distributors,Electronics,03396360576,fdoshi@date.org,Pune,Maharashtra,Small,Tier 3,2.6,Active
+SYSSUP0000109,SUP399607,Purohit Shah Distributors,Beverages,03396360576,fdoshi@date.org,Pune,Maharashtra,Small,Tier 3,2.6,Active
+SYSSUP0000110,SUP399607,Purohit Shah Distributors,Groceries,03396360576,fdoshi@date.org,Pune,Maharashtra,Small,Tier 3,2.6,Active
+SYSSUP0000111,SUP535020,Narula Chaudhry Wholesale,Beverages,01870262174,mitali15@walla.info,Nagpur,Maharashtra,Small,Tier 2,4.5,Active
+SYSSUP0000112,SUP535020,Narula Chaudhry Wholesale,Electronics,01870262174,mitali15@walla.info,Nagpur,Maharashtra,Small,Tier 2,4.5,Active
+SYSSUP0000113,SUP535020,Narula Chaudhry Wholesale,Groceries,01870262174,mitali15@walla.info,Nagpur,Maharashtra,Small,Tier 2,4.5,Active
+SYSSUP0000114,SUP600149,Banik Biswas Traders,Beverages,+914316117240,nairdaksh@parmer-prasad.biz,Pune,Maharashtra,Medium,Tier 3,4.1,Active
+SYSSUP0000115,SUP600149,Banik Biswas Traders,Electronics,+914316117240,nairdaksh@parmer-prasad.biz,Pune,Maharashtra,Medium,Tier 3,4.1,Active
+SYSSUP0000116,SUP600149,Banik Biswas Traders,Groceries,+914316117240,nairdaksh@parmer-prasad.biz,Pune,Maharashtra,Medium,Tier 3,4.1,Active
+SYSSUP0000117,SUP330080,Dhingra Konda Enterprises,Groceries,6922219693,odhar@kumar-sharaf.com,Mangalore,Karnataka,Small,Tier 2,4.3,Active
+SYSSUP0000118,SUP233827,Andra Shroff Supplies,Electronics,08217594647,rushil67@khalsa.org,Chennai,Tamil Nadu,Large,Tier 1,4.7,Active
+SYSSUP0000119,SUP233827,Andra Shroff Supplies,Groceries,08217594647,rushil67@khalsa.org,Chennai,Tamil Nadu,Large,Tier 1,4.7,Active
+SYSSUP0000120,SUP290556,Parmer Merchant Traders,Groceries,4064090974,indirakanda@gupta.com,Pune,Maharashtra,Small,Tier 3,2.9,Active
+SYSSUP0000121,SUP290556,Parmer Merchant Traders,Beverages,4064090974,indirakanda@gupta.com,Pune,Maharashtra,Small,Tier 3,2.9,Active
+SYSSUP0000122,SUP975467,Baral More Traders,Beverages,00952145623,jasmitwali@mahajan.info,Bengaluru,Karnataka,Medium,Tier 1,5.0,Active
+SYSSUP0000123,SUP142213,Merchant Nigam Traders,Beverages,+917123685160,jatin75@lala.com,Ghaziabad,Uttar Pradesh,Medium,Tier 2,3.7,Active
+SYSSUP0000124,SUP328552,Kaur Sinha Wholesale,Electronics,+919859317461,chakradevbarad@tailor-dalia.com,Surat,Gujarat,Medium,Tier 1,4.7,Active
+SYSSUP0000125,SUP426147,Keer Yogi Traders,Electronics,+916758692617,cmammen@prabhakar.info,Chennai,Tamil Nadu,Large,Tier 1,4.9,Active
+SYSSUP0000126,SUP426147,Keer Yogi Traders,Beverages,+916758692617,cmammen@prabhakar.info,Chennai,Tamil Nadu,Large,Tier 1,4.9,Active
+SYSSUP0000127,SUP426147,Keer Yogi Traders,Groceries,+916758692617,cmammen@prabhakar.info,Chennai,Tamil Nadu,Large,Tier 1,4.9,Active
+SYSSUP0000128,SUP206851,Keer Patil Industries,Beverages,+915850643171,anshbedi@kohli-dass.org,Nagpur,Maharashtra,Medium,Tier 1,5.0,Active
+SYSSUP0000129,SUP206851,Keer Patil Industries,Groceries,+915850643171,anshbedi@kohli-dass.org,Nagpur,Maharashtra,Medium,Tier 1,5.0,Active
+SYSSUP0000130,SUP793655,Jha Biswas Enterprises,Beverages,3933529042,zashilghosh@bal.com,New Delhi,Delhi,Small,Tier 3,3.2,Active
+SYSSUP0000131,SUP793655,Jha Biswas Enterprises,Groceries,3933529042,zashilghosh@bal.com,New Delhi,Delhi,Small,Tier 3,3.2,Active
+SYSSUP0000132,SUP841666,Parmar Khanna Distributors,Groceries,5024026811,xsen@varghese-chopra.info,Bengaluru,Karnataka,Medium,Tier 3,2.8,Active
+SYSSUP0000133,SUP841666,Parmar Khanna Distributors,Beverages,5024026811,xsen@varghese-chopra.info,Bengaluru,Karnataka,Medium,Tier 3,2.8,Active
+SYSSUP0000134,SUP841666,Parmar Khanna Distributors,Electronics,5024026811,xsen@varghese-chopra.info,Bengaluru,Karnataka,Medium,Tier 3,2.8,Active
+SYSSUP0000135,SUP965845,Thakur Kant Industries,Electronics,0847007661,esawhney@nagy.com,Coimbatore,Tamil Nadu,Small,Tier 2,4.6,Active
+SYSSUP0000136,SUP965845,Thakur Kant Industries,Groceries,0847007661,esawhney@nagy.com,Coimbatore,Tamil Nadu,Small,Tier 2,4.6,Active
+SYSSUP0000137,SUP697530,Bhatti Date Supplies,Groceries,09985698478,ychaudhary@contractor.info,Surat,Gujarat,Small,Tier 3,2.9,Active
+SYSSUP0000138,SUP697530,Bhatti Date Supplies,Beverages,09985698478,ychaudhary@contractor.info,Surat,Gujarat,Small,Tier 3,2.9,Active
+SYSSUP0000139,SUP393243,Kari Sachdev Supplies,Groceries,07661565452,fbhavsar@chander.com,Surat,Gujarat,Medium,Tier 2,3.6,Active
+SYSSUP0000140,SUP393243,Kari Sachdev Supplies,Electronics,07661565452,fbhavsar@chander.com,Surat,Gujarat,Medium,Tier 2,3.6,Active
+SYSSUP0000141,SUP824156,Pradhan De Wholesale,Groceries,0988516560,devika51@tripathi.info,Surat,Gujarat,Small,Tier 1,4.4,Active
+SYSSUP0000142,SUP796212,Kapur Chokshi Supplies,Beverages,08514936899,lokeayush@mahajan.com,Pune,Maharashtra,Medium,Tier 2,4.7,Active
+SYSSUP0000143,SUP796212,Kapur Chokshi Supplies,Groceries,08514936899,lokeayush@mahajan.com,Pune,Maharashtra,Medium,Tier 2,4.7,Active
+SYSSUP0000144,SUP384076,Nori Panchal Enterprises,Electronics,+912296120183,dsaini@dugar-pingle.com,Mumbai,Maharashtra,Small,Tier 2,3.6,Active
+SYSSUP0000145,SUP384076,Nori Panchal Enterprises,Beverages,+912296120183,dsaini@dugar-pingle.com,Mumbai,Maharashtra,Small,Tier 2,3.6,Active
+SYSSUP0000146,SUP384076,Nori Panchal Enterprises,Groceries,+912296120183,dsaini@dugar-pingle.com,Mumbai,Maharashtra,Small,Tier 2,3.6,Active
+SYSSUP0000147,SUP874483,Nair Chad Wholesale,Groceries,+912290147679,rsachdeva@vala.com,Nagpur,Maharashtra,Medium,Tier 2,4.2,Inactive
+SYSSUP0000148,SUP338533,Sani Choudhry Enterprises,Groceries,09784036900,charvikakar@kumer.com,Lucknow,Uttar Pradesh,Small,Tier 3,2.8,Inactive
+SYSSUP0000149,SUP338533,Sani Choudhry Enterprises,Electronics,09784036900,charvikakar@kumer.com,Lucknow,Uttar Pradesh,Small,Tier 3,2.8,Inactive
+SYSSUP0000150,SUP338533,Sani Choudhry Enterprises,Beverages,09784036900,charvikakar@kumer.com,Lucknow,Uttar Pradesh,Small,Tier 3,2.8,Inactive
+SYSSUP0000151,SUP207570,Dar Amble Traders,Electronics,06226838851,bbasak@sharaf.com,Coimbatore,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000152,SUP207570,Dar Amble Traders,Beverages,06226838851,bbasak@sharaf.com,Coimbatore,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000153,SUP520172,Sanghvi Ravel Wholesale,Electronics,6416052975,sarkarhitesh@sarin.biz,New Delhi,Delhi,Small,Tier 3,4.1,Active
+SYSSUP0000154,SUP685181,Viswanathan Brar Wholesale,Groceries,04535218188,ikshitapanchal@divan.com,Chennai,Tamil Nadu,Medium,Tier 2,4.6,Active
+SYSSUP0000155,SUP685181,Viswanathan Brar Wholesale,Beverages,04535218188,ikshitapanchal@divan.com,Chennai,Tamil Nadu,Medium,Tier 2,4.6,Active
+SYSSUP0000156,SUP685181,Viswanathan Brar Wholesale,Electronics,04535218188,ikshitapanchal@divan.com,Chennai,Tamil Nadu,Medium,Tier 2,4.6,Active
+SYSSUP0000157,SUP739244,Kunda Hora Industries,Electronics,+919212779979,diya27@singh.com,New Delhi,Delhi,Medium,Tier 2,3.5,Active
+SYSSUP0000158,SUP739244,Kunda Hora Industries,Beverages,+919212779979,diya27@singh.com,New Delhi,Delhi,Medium,Tier 2,3.5,Active
+SYSSUP0000159,SUP739244,Kunda Hora Industries,Groceries,+919212779979,diya27@singh.com,New Delhi,Delhi,Medium,Tier 2,3.5,Active
+SYSSUP0000160,SUP528361,Maharaj Bhalla Wholesale,Electronics,08147700541,tripathileena@barman-sengupta.org,Surat,Gujarat,Small,Tier 2,4.3,Active
+SYSSUP0000161,SUP528361,Maharaj Bhalla Wholesale,Beverages,08147700541,tripathileena@barman-sengupta.org,Surat,Gujarat,Small,Tier 2,4.3,Active
+SYSSUP0000162,SUP377405,Guha Nagy Industries,Electronics,7820715182,kotaraksha@viswanathan-virk.org,Chennai,Tamil Nadu,Small,Tier 3,3.5,Active
+SYSSUP0000163,SUP162535,Dutt Patla Distributors,Groceries,04665905151,qmander@doctor.org,Nagpur,Maharashtra,Medium,Tier 2,3.8,Active
+SYSSUP0000164,SUP162535,Dutt Patla Distributors,Beverages,04665905151,qmander@doctor.org,Nagpur,Maharashtra,Medium,Tier 2,3.8,Active
+SYSSUP0000165,SUP162535,Dutt Patla Distributors,Electronics,04665905151,qmander@doctor.org,Nagpur,Maharashtra,Medium,Tier 2,3.8,Active
+SYSSUP0000166,SUP624783,Dhaliwal Palla Supplies,Electronics,06291486528,sampathyashoda@badami-patil.com,Mangalore,Karnataka,Small,Tier 1,4.5,Active
+SYSSUP0000167,SUP624783,Dhaliwal Palla Supplies,Beverages,06291486528,sampathyashoda@badami-patil.com,Mangalore,Karnataka,Small,Tier 1,4.5,Active
+SYSSUP0000168,SUP340044,Gole Kala Industries,Groceries,07332214188,nayarkaran@puri.com,Chennai,Tamil Nadu,Large,Tier 1,4.4,Active
+SYSSUP0000169,SUP644173,Gandhi Sarma Industries,Groceries,+916537947383,upasna35@sastry.biz,Mangalore,Karnataka,Small,Tier 3,3.5,Active
+SYSSUP0000170,SUP464863,Thakkar Wable Wholesale,Beverages,02392407581,manefiyaz@mahajan.net,Pune,Maharashtra,Medium,Tier 3,2.9,Active
+SYSSUP0000171,SUP464863,Thakkar Wable Wholesale,Groceries,02392407581,manefiyaz@mahajan.net,Pune,Maharashtra,Medium,Tier 3,2.9,Active
+SYSSUP0000172,SUP953085,Din Sarkar Supplies,Electronics,+913750606853,xbumb@bala.com,New Delhi,Delhi,Small,Tier 2,3.6,Active
+SYSSUP0000173,SUP953085,Din Sarkar Supplies,Groceries,+913750606853,xbumb@bala.com,New Delhi,Delhi,Small,Tier 2,3.6,Active
+SYSSUP0000174,SUP953085,Din Sarkar Supplies,Beverages,+913750606853,xbumb@bala.com,New Delhi,Delhi,Small,Tier 2,3.6,Active
+SYSSUP0000175,SUP156837,Nayak Dhingra Distributors,Beverages,+910472779010,tanveer28@wable.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.0,Active
+SYSSUP0000176,SUP156837,Nayak Dhingra Distributors,Electronics,+910472779010,tanveer28@wable.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.0,Active
+SYSSUP0000177,SUP402020,Khanna Mitra Wholesale,Groceries,+910369711798,varmawyatt@dhawan.com,Surat,Gujarat,Small,Tier 3,3.5,Active
+SYSSUP0000178,SUP677596,Pandit Khosla Traders,Beverages,6218518888,ramakrishnanupma@ram.com,Coimbatore,Tamil Nadu,Small,Tier 3,4.0,Active
+SYSSUP0000179,SUP972565,Babu Parikh Distributors,Groceries,+915319520585,ucchalsrinivas@gopal.info,Mangalore,Karnataka,Medium,Tier 2,4.5,Inactive
+SYSSUP0000180,SUP678043,Bansal Memon Distributors,Groceries,+910305486874,halderbhavika@batta-narula.com,Bengaluru,Karnataka,Large,Tier 1,4.9,Active
+SYSSUP0000181,SUP678043,Bansal Memon Distributors,Beverages,+910305486874,halderbhavika@batta-narula.com,Bengaluru,Karnataka,Large,Tier 1,4.9,Active
+SYSSUP0000182,SUP925981,Dash Pillai Supplies,Electronics,06765277584,samrafarhan@gole-memon.com,Mumbai,Maharashtra,Small,Tier 2,4.2,Inactive
+SYSSUP0000183,SUP925981,Dash Pillai Supplies,Groceries,06765277584,samrafarhan@gole-memon.com,Mumbai,Maharashtra,Small,Tier 2,4.2,Inactive
+SYSSUP0000184,SUP664742,Chauhan Buch Wholesale,Beverages,04479627570,radhika40@ravi.net,Pune,Maharashtra,Medium,Tier 2,4.0,Active
+SYSSUP0000185,SUP350405,Dutta Balasubramanian Supplies,Groceries,+919702135569,dubeshivani@prabhu-sawhney.com,Bengaluru,Karnataka,Large,Tier 1,4.5,Active
+SYSSUP0000186,SUP350405,Dutta Balasubramanian Supplies,Electronics,+919702135569,dubeshivani@prabhu-sawhney.com,Bengaluru,Karnataka,Large,Tier 1,4.5,Active
+SYSSUP0000187,SUP619389,Devan Wagle Traders,Electronics,06543102786,lalaabha@sehgal.info,Lucknow,Uttar Pradesh,Large,Tier 2,4.0,Active
+SYSSUP0000188,SUP619389,Devan Wagle Traders,Beverages,06543102786,lalaabha@sehgal.info,Lucknow,Uttar Pradesh,Large,Tier 2,4.0,Active
+SYSSUP0000189,SUP529893,Iyengar Das Industries,Electronics,+911727155188,charita22@trivedi-kapur.com,Noida,Uttar Pradesh,Small,Tier 3,2.9,Active
+SYSSUP0000190,SUP529893,Iyengar Das Industries,Groceries,+911727155188,charita22@trivedi-kapur.com,Noida,Uttar Pradesh,Small,Tier 3,2.9,Active
+SYSSUP0000191,SUP529893,Iyengar Das Industries,Beverages,+911727155188,charita22@trivedi-kapur.com,Noida,Uttar Pradesh,Small,Tier 3,2.9,Active
+SYSSUP0000192,SUP432043,Iyer Dewan Industries,Electronics,+917058957829,bhattidayamai@srinivas-vora.biz,Surat,Gujarat,Large,Tier 1,4.3,Active
+SYSSUP0000193,SUP432043,Iyer Dewan Industries,Beverages,+917058957829,bhattidayamai@srinivas-vora.biz,Surat,Gujarat,Large,Tier 1,4.3,Active
+SYSSUP0000194,SUP555052,Rout Borah Traders,Groceries,+915177852892,rachitathakkar@dash.com,Ahmedabad,Gujarat,Small,Tier 3,4.0,Active
+SYSSUP0000195,SUP475876,Modi Gala Enterprises,Electronics,+915358414384,chavviwalla@thakkar.com,Bengaluru,Karnataka,Small,Tier 3,3.6,Active
+SYSSUP0000196,SUP739098,Dube Garg Wholesale,Groceries,9959001094,omajabalasubramanian@mann-mittal.info,Chennai,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000197,SUP739098,Dube Garg Wholesale,Electronics,9959001094,omajabalasubramanian@mann-mittal.info,Chennai,Tamil Nadu,Small,Tier 3,2.7,Active
+SYSSUP0000198,SUP943718,Konda Ravi Wholesale,Beverages,07102767735,dhritinagar@pai.com,Nagpur,Maharashtra,Medium,Tier 1,5.0,Inactive
+SYSSUP0000199,SUP943718,Konda Ravi Wholesale,Groceries,07102767735,dhritinagar@pai.com,Nagpur,Maharashtra,Medium,Tier 1,5.0,Inactive
+SYSSUP0000200,SUP823846,Varma Cherian Enterprises,Groceries,03714732104,psahota@narang.com,Mangalore,Karnataka,Small,Tier 3,3.2,Active
+SYSSUP0000201,SUP823846,Varma Cherian Enterprises,Beverages,03714732104,psahota@narang.com,Mangalore,Karnataka,Small,Tier 3,3.2,Active
+SYSSUP0000202,SUP823846,Varma Cherian Enterprises,Electronics,03714732104,psahota@narang.com,Mangalore,Karnataka,Small,Tier 3,3.2,Active
+SYSSUP0000203,SUP123005,Gupta Dutta Industries,Beverages,08774701687,tanveerpandit@bedi.info,Mangalore,Karnataka,Small,Tier 3,3.8,Inactive
+SYSSUP0000204,SUP123005,Gupta Dutta Industries,Groceries,08774701687,tanveerpandit@bedi.info,Mangalore,Karnataka,Small,Tier 3,3.8,Inactive
+SYSSUP0000205,SUP123005,Gupta Dutta Industries,Electronics,08774701687,tanveerpandit@bedi.info,Mangalore,Karnataka,Small,Tier 3,3.8,Inactive
+SYSSUP0000206,SUP913423,Singhal Mangal Distributors,Beverages,0162456506,hayerjanani@mani.net,Coimbatore,Tamil Nadu,Small,Tier 2,3.7,Active
+SYSSUP0000207,SUP913423,Singhal Mangal Distributors,Electronics,0162456506,hayerjanani@mani.net,Coimbatore,Tamil Nadu,Small,Tier 2,3.7,Active
+SYSSUP0000208,SUP913423,Singhal Mangal Distributors,Groceries,0162456506,hayerjanani@mani.net,Coimbatore,Tamil Nadu,Small,Tier 2,3.7,Active
+SYSSUP0000209,SUP757937,Seshadri Mammen Industries,Groceries,9121655852,yashodhararatti@baria.com,New Delhi,Delhi,Medium,Tier 1,4.5,Active
+SYSSUP0000210,SUP757937,Seshadri Mammen Industries,Beverages,9121655852,yashodhararatti@baria.com,New Delhi,Delhi,Medium,Tier 1,4.5,Active
+SYSSUP0000211,SUP284171,Nath Som Distributors,Groceries,7298259526,gayathri88@suri.com,Lucknow,Uttar Pradesh,Medium,Tier 3,3.9,Active
+SYSSUP0000212,SUP284171,Nath Som Distributors,Beverages,7298259526,gayathri88@suri.com,Lucknow,Uttar Pradesh,Medium,Tier 3,3.9,Active
+SYSSUP0000213,SUP943298,Pillay Narula Traders,Beverages,1694097499,charansrinivasan@viswanathan.org,Bengaluru,Karnataka,Small,Tier 3,3.9,Active
+SYSSUP0000214,SUP943298,Pillay Narula Traders,Groceries,1694097499,charansrinivasan@viswanathan.org,Bengaluru,Karnataka,Small,Tier 3,3.9,Active
+SYSSUP0000215,SUP194689,Rai Divan Wholesale,Groceries,3091307562,ajani@sinha.net,New Delhi,Delhi,Medium,Tier 2,4.3,Active
+SYSSUP0000216,SUP194689,Rai Divan Wholesale,Beverages,3091307562,ajani@sinha.net,New Delhi,Delhi,Medium,Tier 2,4.3,Active
+SYSSUP0000217,SUP194689,Rai Divan Wholesale,Electronics,3091307562,ajani@sinha.net,New Delhi,Delhi,Medium,Tier 2,4.3,Active
+SYSSUP0000218,SUP807617,Johal Nair Distributors,Electronics,7865278585,veda33@misra-kar.com,Bengaluru,Karnataka,Medium,Tier 3,2.9,Active
+SYSSUP0000219,SUP807617,Johal Nair Distributors,Groceries,7865278585,veda33@misra-kar.com,Bengaluru,Karnataka,Medium,Tier 3,2.9,Active
+SYSSUP0000220,SUP807617,Johal Nair Distributors,Beverages,7865278585,veda33@misra-kar.com,Bengaluru,Karnataka,Medium,Tier 3,2.9,Active
+SYSSUP0000221,SUP780776,Mani Johal Wholesale,Beverages,7575844198,wrana@mannan.com,New Delhi,Delhi,Small,Tier 1,5.0,Active
+SYSSUP0000222,SUP242254,Brar Pal Wholesale,Beverages,04733848421,xavierbedi@wali.com,Mangalore,Karnataka,Medium,Tier 2,4.6,Active
+SYSSUP0000223,SUP242254,Brar Pal Wholesale,Electronics,04733848421,xavierbedi@wali.com,Mangalore,Karnataka,Medium,Tier 2,4.6,Active
+SYSSUP0000224,SUP242254,Brar Pal Wholesale,Groceries,04733848421,xavierbedi@wali.com,Mangalore,Karnataka,Medium,Tier 2,4.6,Active
+SYSSUP0000225,SUP786735,Chaudhry Sachdev Traders,Electronics,07120826773,ekani40@kata.com,Mangalore,Karnataka,Large,Tier 1,4.8,Active
+SYSSUP0000226,SUP786735,Chaudhry Sachdev Traders,Groceries,07120826773,ekani40@kata.com,Mangalore,Karnataka,Large,Tier 1,4.8,Active
+SYSSUP0000227,SUP204180,Gill Sahni Industries,Groceries,+910672400499,nayakbhavani@viswanathan-tak.com,Nagpur,Maharashtra,Large,Tier 1,4.2,Active
+SYSSUP0000228,SUP196126,Thaman Sidhu Industries,Electronics,03152742054,parthravi@varma-narang.com,Noida,Uttar Pradesh,Small,Tier 2,4.7,Active
+SYSSUP0000229,SUP970127,Rattan Chandran Supplies,Electronics,+912753046374,chasmum99@lal.com,Ghaziabad,Uttar Pradesh,Medium,Tier 2,4.4,Active
+SYSSUP0000230,SUP970127,Rattan Chandran Supplies,Groceries,+912753046374,chasmum99@lal.com,Ghaziabad,Uttar Pradesh,Medium,Tier 2,4.4,Active
+SYSSUP0000231,SUP970127,Rattan Chandran Supplies,Beverages,+912753046374,chasmum99@lal.com,Ghaziabad,Uttar Pradesh,Medium,Tier 2,4.4,Active
+SYSSUP0000232,SUP236306,Keer Bhatia Supplies,Beverages,1742684145,theodoredeol@dua-sha.org,Mumbai,Maharashtra,Small,Tier 3,2.6,Active
+SYSSUP0000233,SUP439498,Prakash Sagar Traders,Groceries,8783391878,faras91@tiwari.org,Lucknow,Uttar Pradesh,Small,Tier 3,3.3,Active
+SYSSUP0000234,SUP439498,Prakash Sagar Traders,Beverages,8783391878,faras91@tiwari.org,Lucknow,Uttar Pradesh,Small,Tier 3,3.3,Active
+SYSSUP0000235,SUP638169,Yadav Doctor Supplies,Beverages,+915871397187,settykevin@sagar.net,New Delhi,Delhi,Medium,Tier 3,2.4,Active
+SYSSUP0000236,SUP638169,Yadav Doctor Supplies,Groceries,+915871397187,settykevin@sagar.net,New Delhi,Delhi,Medium,Tier 3,2.4,Active
+SYSSUP0000237,SUP638169,Yadav Doctor Supplies,Electronics,+915871397187,settykevin@sagar.net,New Delhi,Delhi,Medium,Tier 3,2.4,Active
+SYSSUP0000238,SUP774591,Shere Morar Traders,Electronics,0640391065,bhasinekapad@balay-mangat.biz,New Delhi,Delhi,Medium,Tier 2,3.5,Active
+SYSSUP0000239,SUP774591,Shere Morar Traders,Beverages,0640391065,bhasinekapad@balay-mangat.biz,New Delhi,Delhi,Medium,Tier 2,3.5,Active
+SYSSUP0000240,SUP437758,Gole Deshmukh Supplies,Beverages,6567661825,gokhalemaya@datta.com,Noida,Uttar Pradesh,Small,Tier 3,3.4,Active
+SYSSUP0000241,SUP437758,Gole Deshmukh Supplies,Groceries,6567661825,gokhalemaya@datta.com,Noida,Uttar Pradesh,Small,Tier 3,3.4,Active
+SYSSUP0000242,SUP575755,Misra Sheth Supplies,Beverages,8686337524,isaiahbalay@saini.com,Coimbatore,Tamil Nadu,Small,Tier 3,3.9,Active
+SYSSUP0000243,SUP575755,Misra Sheth Supplies,Electronics,8686337524,isaiahbalay@saini.com,Coimbatore,Tamil Nadu,Small,Tier 3,3.9,Active
+SYSSUP0000244,SUP575755,Misra Sheth Supplies,Groceries,8686337524,isaiahbalay@saini.com,Coimbatore,Tamil Nadu,Small,Tier 3,3.9,Active
+SYSSUP0000245,SUP573489,Bhavsar Chaudhuri Distributors,Beverages,0790306738,dakshdey@mann.org,Mangalore,Karnataka,Medium,Tier 2,4.3,Active
+SYSSUP0000246,SUP573489,Bhavsar Chaudhuri Distributors,Groceries,0790306738,dakshdey@mann.org,Mangalore,Karnataka,Medium,Tier 2,4.3,Active
+SYSSUP0000247,SUP492483,Nagi Khalsa Distributors,Groceries,02836440892,dtandon@raj-vohra.com,Surat,Gujarat,Small,Tier 3,2.5,Active
+SYSSUP0000248,SUP492483,Nagi Khalsa Distributors,Electronics,02836440892,dtandon@raj-vohra.com,Surat,Gujarat,Small,Tier 3,2.5,Active
+SYSSUP0000249,SUP492483,Nagi Khalsa Distributors,Beverages,02836440892,dtandon@raj-vohra.com,Surat,Gujarat,Small,Tier 3,2.5,Active
+SYSSUP0000250,SUP714953,Saha Rege Supplies,Beverages,+914628733427,sacharomaja@wagle.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.5,Inactive
+SYSSUP0000251,SUP714953,Saha Rege Supplies,Electronics,+914628733427,sacharomaja@wagle.com,Coimbatore,Tamil Nadu,Medium,Tier 2,4.5,Inactive
+SYSSUP0000252,SUP401601,Kumer Jani Supplies,Groceries,01751830469,boraraghav@kalla.com,Pune,Maharashtra,Small,Tier 3,2.6,Active
