@@ -229,7 +229,7 @@ for date in dates:
             "WeatherSysID":
                 f"SYSWEA{sys_id:07d}",
             "WeatherID":
-                f"WTH{random.randint(100000,999999)}",
+                f"WTH{sys_id:07d}",
             "City":
                 city,
             "State":
