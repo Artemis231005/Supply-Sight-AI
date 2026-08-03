@@ -192,7 +192,7 @@ for _, order in po.iterrows():
         "ShipmentSysID":
             f"SYSSHP{sys_id:07d}",
         "ShipmentID":
-            f"SHP{random.randint(100000,999999)}",
+            f"SHP{sys_id:07d}",
         "PurchaseOrderID":
             order["PurchaseOrderID"],
         "SupplierID":
