@@ -13,7 +13,7 @@ inventory = pd.read_csv("data_generation/Inventory Data.csv")
 products = pd.read_csv("data_generation/Products Data.csv")
 stores = pd.read_csv("data_generation/Store Data.csv")
 
-MAX_SALES_PER_STORE = 120
+MAX_SALES_PER_STORE = 1000
 
 used_sales_ids = set()
 rows = []
