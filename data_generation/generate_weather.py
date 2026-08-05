@@ -234,7 +234,7 @@ for date in dates:
                 city,
             "State":
                 state,
-            "Date":
+            "RecordedDate":
                 date.date(),
             "TemperatureC":
                 temp,

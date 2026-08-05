@@ -1,4 +1,4 @@
-WeatherSysID,WeatherID,City,State,Date,TemperatureC,HumidityPercent,RainfallMM,WindSpeedKmph,WeatherCondition,WeatherSeverity
+WeatherSysID,WeatherID,City,State,RecordedDate,TemperatureC,HumidityPercent,RainfallMM,WindSpeedKmph,WeatherCondition,WeatherSeverity
 SYSWEA0000001,WTH0000001,New Delhi,Delhi,2023-01-01,9,75,0,12,Cloudy,Normal
 SYSWEA0000002,WTH0000002,Mumbai,Maharashtra,2023-01-01,22,79,4,7,Sunny,Normal
 SYSWEA0000003,WTH0000003,Bengaluru,Karnataka,2023-01-01,21,87,0,11,Sunny,Normal
