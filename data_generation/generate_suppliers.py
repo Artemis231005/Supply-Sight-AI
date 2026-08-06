@@ -119,28 +119,22 @@ for i in range(NUM_UNIQUE_SUPPLIERS):
         ["Active", "Inactive"],
         weights=[93, 7]
     )[0]
-    supplier_categories = random.sample(
-        CATEGORIES,
-        random.randint(1, 3)
-    )
+    
+    rows.append({
+        "SupplierSysID": f"SYSSUP{sys_id:07d}",
+        "SupplierID": supplier_id,
+        "SupplierName": supplier_name,
+        "Phone": phone,
+        "Email": email,
+        "City": city,
+        "State": state,
+        "SupplierSize": supplier_size,
+        "SupplierTier": supplier_tier,
+        "Rating": rating,
+        "ActiveStatus": active_status
+    })
 
-    for category in supplier_categories:
-        rows.append({
-            "SupplierSysID": f"SYSSUP{sys_id:07d}",
-            "SupplierID": supplier_id,
-            "SupplierName": supplier_name,
-            "Category": category,
-            "Phone": phone,
-            "Email": email,
-            "City": city,
-            "State": state,
-            "SupplierSize": supplier_size,
-            "SupplierTier": supplier_tier,
-            "Rating": rating,
-            "ActiveStatus": active_status
-        })
-        
-        sys_id += 1
+    sys_id += 1
 
 suppliers = pd.DataFrame(rows)
 

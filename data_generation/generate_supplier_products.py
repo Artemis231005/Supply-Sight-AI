@@ -10,70 +10,79 @@ suppliers = pd.read_csv("data_generation/Supplier Data.csv")
 rows = []
 sys_id = 1
 
+all_categories = products["Category"].unique()
 for _, supplier in suppliers.iterrows():
-
     supplier_id = supplier["SupplierID"]
     supplier_size = supplier["SupplierSize"]
     supplier_tier = supplier["SupplierTier"]
-    category = supplier["Category"]
-
-    category_products = products[
-        products["Category"] == category
-    ]
     
-    available_subcategories = category_products[
-        "SubCategory"
-    ].unique()
-
-    primary_subcategory = random.choice(
-        available_subcategories
+    supplier_categories = random.sample(
+        list(all_categories),
+        random.randint(1, len(all_categories))
     )
+    sampled_products = pd.DataFrame()
 
-    primary_products = category_products[
-        category_products["SubCategory"] == primary_subcategory
-    ]
-
-    secondary_products = category_products[
-        category_products["SubCategory"] != primary_subcategory
-    ]
-
-    total_products = len(category_products)
-
-    if supplier_size == "Large":
-        percent = random.uniform(0.12, 0.18)
-    elif supplier_size == "Medium":
-        percent = random.uniform(0.07, 0.12)
-    else:
-        percent = random.uniform(0.03, 0.07)
-
-    num_products = max(
-        5,
-        int(total_products * percent)
-    )
-
-    primary_count = min(
-        int(num_products * 0.8),
-        len(primary_products)
-    )
-
-    secondary_count = min(
-        num_products - primary_count,
-        len(secondary_products)
-    )
-
-    sampled_products = pd.concat([
-
-        primary_products.sample(
-            n=primary_count,
-            random_state=random.randint(1, 100000)
-        ),
-
-        secondary_products.sample(
-            n=secondary_count,
-            random_state=random.randint(1, 100000)
+    for category in supplier_categories:
+        category_products = products[
+            products["Category"] == category
+        ]
+        
+        available_subcategories = category_products["SubCategory"].unique()
+        primary_subcategory = random.choice(
+            available_subcategories
         )
 
-    ])
+        primary_products = category_products[
+            category_products["SubCategory"] == primary_subcategory
+        ]
+
+        secondary_products = category_products[
+            category_products["SubCategory"] != primary_subcategory
+        ]
+        total_products = len(category_products)
+
+        if supplier_size == "Large":
+            percent = random.uniform(0.12, 0.18)
+        elif supplier_size == "Medium":
+            percent = random.uniform(0.07, 0.12)
+        else:
+            percent = random.uniform(0.03, 0.07)
+        
+        num_products = min(
+            len(category_products),
+            max(5, int(total_products * percent))
+        )
+
+        primary_count = min(
+            int(num_products * 0.8),
+            len(primary_products)
+        )
+
+        secondary_count = min(
+            num_products - primary_count,
+            len(secondary_products)
+        )
+
+        sampled = pd.concat([
+            primary_products.sample(
+                n=primary_count,
+                random_state=random.randint(1, 100000)
+            ),
+
+            secondary_products.sample(
+                n=secondary_count,
+                random_state=random.randint(1, 100000)
+            )
+        ])
+
+        sampled_products = pd.concat(
+            [sampled_products, sampled],
+            ignore_index=True
+        )
+
+    sampled_products = sampled_products.drop_duplicates(
+        subset="ProductID"
+    )
 
     for _, product in sampled_products.iterrows():
         subcategory = product["SubCategory"]

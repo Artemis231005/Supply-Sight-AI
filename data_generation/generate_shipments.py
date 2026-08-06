@@ -11,7 +11,7 @@ suppliers = pd.read_csv("data_generation/Supplier Data.csv")
 warehouses = pd.read_csv("data_generation/Warehouse Data.csv")
 weather = pd.read_csv("data_generation/Weather Data.csv")
 
-weather["Date"] = pd.to_datetime(weather["Date"])
+weather["RecordedDate"] = pd.to_datetime(weather["RecordedDate"])
 po["OrderDate"] = pd.to_datetime(po["OrderDate"])
 po["ExpectedDeliveryDate"] = pd.to_datetime(po["ExpectedDeliveryDate"])
 
@@ -111,7 +111,7 @@ def transit_days(distance, mode):
 def weather_severity(city, date):
     row = weather[
         (weather["City"] == city) &
-        (weather["Date"] == date)
+        (weather["RecordedDate"] == date)
     ]
 
     if len(row) == 0:

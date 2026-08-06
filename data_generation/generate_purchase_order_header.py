@@ -12,6 +12,7 @@ Faker.seed(RANDOM_SEED)
 suppliers = pd.read_csv("data_generation/Supplier Data.csv")
 supplier_products = pd.read_csv("data_generation/Supplier Products Data.csv")
 warehouses = pd.read_csv("data_generation/Warehouse Data.csv")
+products = pd.read_csv("data_generation/Products Data.csv")
 
 used_po_ids = set()
 rows = []
@@ -27,9 +28,17 @@ for i in range(1, NUM_PURCHASE_ORDERS + 1):
             break
 
     supplier = suppliers.sample(1).iloc[0]
-
     supplier_id = supplier["SupplierID"]
-    category = supplier["Category"]
+
+    supplier_product_ids = supplier_products[
+        supplier_products["SupplierID"] == supplier_id
+    ]["ProductID"]
+
+    categories = products[
+        products["ProductID"].isin(supplier_product_ids)
+    ]["Category"].unique()
+
+    category = random.choice(categories)
 
     if category == "Electronics":
         eligible = warehouses[
